@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://www.zoomkoding.com/sitemap/sitemap-index.xml
-Host: https://www.zoomkoding.com
+Sitemap: https://eunhye43.github.io/sitemap/sitemap-index.xml
+Host: https://eunhye43.github.io
