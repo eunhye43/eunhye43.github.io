@@ -1,4 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[은혜의 깃헙 블로그 🌱]]></title><description><![CDATA[주니어 백엔드 개발 기록 🦖]]></description><link>https://eunhye43.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Sep 2021 02:28:39 GMT</lastBuildDate><item><title><![CDATA[움직이는 미모티콘 GIF 생성하기]]></title><description><![CDATA[…]]></description><link>https://eunhye43.github.io/memoji-to-gif/</link><guid isPermaLink="false">https://eunhye43.github.io/memoji-to-gif/</guid><pubDate>Wed, 01 Sep 2021 12:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;미모티콘-생성하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AF%B8%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0&quot; aria-label=&quot;미모티콘 생성하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;미모티콘 생성하기&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[은혜의 깃헙 블로그 🌱]]></title><description><![CDATA[주니어 백엔드 개발 기록 🦖]]></description><link>https://eunhye43.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Sep 2021 02:52:03 GMT</lastBuildDate><item><title><![CDATA[왜 개발 블로그를 하시나요?]]></title><description><![CDATA[🙋‍♂️ 내 소개 나는 개발 6개월차, 블로그…]]></description><link>https://eunhye43.github.io/why-dev-blog/</link><guid isPermaLink="false">https://eunhye43.github.io/why-dev-blog/</guid><pubDate>Mon, 27 Sep 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;️-내-소개&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%82%B4-%EC%86%8C%EA%B0%9C&quot; aria-label=&quot;️ 내 소개 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🙋‍♂️ 내 소개&lt;/h2&gt;
+&lt;p&gt;나는 개발 6개월차, 블로그 6개월차인 개발자 &lt;strong&gt;박은혜&lt;/strong&gt;이다👋 조금 촌스러운 내 성향때문인지 뭐든 수기로 기록하고 확인하고 읽는 것을 좋아했는데 개발을 시작하고 얼마지 않아 기술블로그는 개발자의 숙명이라는 것을 알게 되었다. 실제로 velog를 운영하다가 주변 동기들의 성화에 못이겨 이렇게 깃헙 블로그로 옮겨온 것도 사실 며칠 되지 않았다. 아직도 너무 어색하고 어렵고 난해하고 쉽지 않다. (정말 내가 맥북을 쓴다는 것만으로도 대단한거야…!🌝)
+&lt;br/&gt;
+백엔드로 개발자의 커리어를 시작하며 내 안에 너무 많은 설명이 필요했다. 왜? 파이썬 왜? 백엔드 왜? 근데 갑자기 개발은 왜? 내가 나를 설득하는데 너무 많은 시간을 들이다보니 시간이 많이 걸렸다. 그래도 요즘에는 꽤나 즐겁고 고생스럽운, 희열과 빡침의 연속인 코딩이 내 안에 잘 스며들었다고 생각한다. 여전히 찐 백엔드 개발자가 되고싶고, 개발로 문제를 해결하는 데 관심이 아주 많다. 그게 정말 멋진 일이라고 생각하고, 내 실력으로 그렇게 내 주변의 문제들을 해결하고 싶다.
+&lt;br/&gt;
+데이터에 관심이 많다. 데이터에 있어서 분명한 강점을 갖고 있는 사람이고 싶다. 얼마나 실력을 쌓아야 하는걸까- 감이 안오는 날들의 연속이다. 배움은 끝이 없고 산더미같이 내게 다가온다. 매일 꾸준히- 가 말해주는 학습의 양은 어느 정도인걸까?
+&lt;br/&gt;
+누군가는 이 블로깅을 보고가겠지. 누군가는 이 블로그를 보며 나를 어떤 사람인지 추측해보겠지. 나는 부단히 학습하고 익힌 것을 다시 설명하는 개발자라고 생각해주면 좋겠다. 맘 편하게 잠자리에 누운지가 꽤 오래 전인 것 같은데 이건 내가 선택한거니까! 🙏
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&quot;️-tmi&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8F-tmi&quot; aria-label=&quot;️ tmi permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🙋‍♂️ TMI&lt;/h2&gt;
+&lt;p&gt;관종이 못 되는 탓에 블로그 하는 것도 살금살금, 조심스러운 사람이라고 표현하고 싶다.
+원래 전공은 스페인어고, 스페인어 공부하는 걸 정말 사랑한다.
+대학 때부터 스페인어 과외로 용돈을 벌었고, 코딩하기 전에도 스페인어 회화 수업을 위주로 과외를 진행했고, Dele 말하기 만점, Opic 말하기 만점을 받은 건 내 유일한 자랑거리.
+&lt;br/&gt;
+책을 읽는 걸 좋아하고 또 그 책으로 듣고 말하는 걸 즐긴다. 독서모임에서 다양한 사람들과 이야기를 나누는 건 항상 새롭고, 더 좋은 내가 될 수 있도록 동기부여를 해주는 것 같아 여유가 생기면 주말 독서모임을 나가려고 한다. IT, 테크, AI 쪽에 관심이 많아서 열심히 책을 읽고 있다. 근래에는 “알고리즘, 인생을 계산하다”라는 실생활에서 알고리즘을 만날 수 있는 사랑스러운 책을 읽는 중이다.
+&lt;br/&gt;
+아침 루틴을 중요시한다. 짧게 일기를 쓰고 매일 나에게 잘 할 수 있다고 최면을 중얼중얼 건다.
+디저트 덕후인 나는 서울권 유명한 디저트 가게를 다 안다. 요즘은 조금 시들해졌지만, 타르트와 파이류를 좋아하고, 유자와 레몬, 쑥과 당근 디저트류를 선호한다. 실제로 직접 베이킹을 해봤지만 디저트는 역시 사먹는게 최고인 것 같다.
+&lt;br/&gt;
+가우디와 고흐, 앙리마티스 작품을 보며 위로를 받고, 북맥과 영화맥을 사랑하는. 치킨을 먹을 때에도 메인보다는 사이드에 집중하는 비주류이고, 인싸보다는 아싸와 더 친해지는 신기한 사람 같다. 런닝과 클라이밍을 사랑하고 몇 없는 주변의 사람들을 챙기는데 열을 올리는 정에 약한 사람이기도 하다.
+사소한 것과 태도의 중요성을 알고, 단단한 목소리를 가지고 건강한 사람이고 싶은 사람이다.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-블로그-시작&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91&quot; aria-label=&quot; 블로그 시작 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🚀 블로그 시작&lt;/h2&gt;
+&lt;p&gt;전공 첫학기에 개인 네이버 블로그에 과제를 포스팅해야하는 수업이 있었다. 당시 군복학으로 열정이 넘쳤던 나는 과제를 성실히 수행했고 학기가 흐르면서 자연스럽게 블로그에 차곡차곡 포스팅이 쌓여갔다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.77777777777778%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIklEQVQoz42SiYrDMAxE/f//GULuozmdQ+tnOmkxLNQgIifx02hkl2WZ5XluVVVZ3/d23/dP8b2WZYkMnu71etm6rnYch3nv7dfF/9d1xZwC8zzbvu/mhmGICVCCKnzkqTwWDMWAKFIh0zTFveu6zsZxtLqurWkaa9s2tq99GfJxCFb4za6gBFUoQoRUAvLvgg7foAMGgGKA5HzTSj0EKIvICeAORQKSAyTIgaL+fqviQKqQfNu2D1AKBSJ4RwClkH6+v1pWi4I/QA5gsPzDO2AoA17XjRVF8RxWaCDKUUmROGUpBMJUY7sh/Dpj3r8epi3Hoci3ONGyfLxjun6Zgn9nnG4KBCIg10t7p/uDMqklx4YzXBUNJA3aO88z+qaJs/8Dy9VZGcfkkyoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;naver-blog-history.png&quot;
+        title=&quot;naver-blog-history.png&quot;
+        src=&quot;/static/340181a3a28af6dbe17eb4c5ff56c768/37523/why-dev-blog-2.png&quot;
+        srcset=&quot;/static/340181a3a28af6dbe17eb4c5ff56c768/e9ff0/why-dev-blog-2.png 180w,
+/static/340181a3a28af6dbe17eb4c5ff56c768/f21e7/why-dev-blog-2.png 360w,
+/static/340181a3a28af6dbe17eb4c5ff56c768/37523/why-dev-blog-2.png 720w,
+/static/340181a3a28af6dbe17eb4c5ff56c768/302a4/why-dev-blog-2.png 1080w,
+/static/340181a3a28af6dbe17eb4c5ff56c768/62a6a/why-dev-blog-2.png 1122w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;그렇게 블로그에 내가 정리한 글이 쌓여가고 실제로 공유된 글이 조회되는 것을 보면서 나는 조금씩 재미를 맛보기 시작했다. 그리고 이왕 공부한 내용들을 정리도 할겸 앞으로 블로그를 운영하면서 공부한 내용들을 정리해보기로 마음 먹게 되었다.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;-닉네임--테마-정하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%8B%89%EB%84%A4%EC%9E%84--%ED%85%8C%EB%A7%88-%EC%A0%95%ED%95%98%EA%B8%B0&quot; aria-label=&quot; 닉네임  테마 정하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🏀 닉네임 + 테마 정하기&lt;/h2&gt;
+&lt;p&gt;블로그를 시작하기로 마음 먹으면서 블로그 이름을 정해야 했고 깊이 고민하지 않다. 코딩과 어감이 비슷한 내 최애 농구 선수 코비가 떠올랐고, 코비의 농구화 시리즈 이름인 줌코비(Zoom Kobe)에서 마지막 자만 바꿔서 줌코딩(Zoom In Coding)을 내 닉네임으로 정했다.&lt;/p&gt;
+&lt;p&gt;당시 무심코 지은 내 닉네임은 나의 부캐가 되었다. 내가 블로그에 진심인 것을 아시는 분들은 나를 &lt;strong&gt;줌코딩&lt;/strong&gt;으로 부르기도 한다. 이게 조금 웃긴데 그렇게 들을 때면 내심 기분이 좋다. 혹시 이제 막 블로그를 시작하시는 분들이라면 은근슬쩍 닉네임 지어보길 추천드린다. 여기서 오는 또 다른 재미가 있다.&lt;/p&gt;
+&lt;p&gt;그리고 내가 농구 선수인 좋아하는 선수인 로드맨의 이미지로 블로그 배경을 정했다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADpklEQVQ4yy2TfUzUdRzHf9wTd9wTcDxeyMlTjDgejwcZBAgzPIhjBwooCRzDQ4hAnqaTWJIUFA7iyS4aqyZJZVtATTS1NVGmks221lrLluLEzcQyq3/aXn3Z+uO9976fffZ+v7fP+ytpVCq03hp0ai1aAYPWiFGrx+CjE9Djr/clwGDCEmIhPNSCr84PnUaPXuz5qPWoFGrUKh/8jAEkRUQgqZVKvBUKNEoVaoWAXCF4c6ZCKZOj8JILAS2+wkCv2TQxiLcOtVItdtRohJjcS4lOa+D5rHQks38AoUZf9CKl1luHxlskFeJP+fvTXG0nLsqCJEkoJBkywdL/kMuUqJQ+KOXeKIW5/Tk73ZUOpNhQM2lbLMSZwynJ2EbrjlwSt8ZQmpaKp83Nysk5Dta6GJs4gWd8igaHg1252dQW5ePenkRdfgru2r3MHerCFR2GlGW1URCfREliGg5bOq2Fz+JMT6EyJZrO4hy+mf+EB99d5ebsDKc6XsLT086Uew8jLifD3a18ffpTehsbOFaYTU20GcmZU0id3cGRPTW0FRfjSLBSlpxATfZ2avIKGHJVMdXTzHhDObXWOF7IyaJRmHY5S3lxlxPP4LBIu5O6DCtFYQak+kQrrY5ySvMLKLJl4tpRysV33+H08WG6ysuJD4ug07Wfw40t1NvtHKyo5sRrfewuLqM4M5djzXVkPx1FhsVMfJAeKVMmo14ItbV0EBUTR3J0In3dR/FMTpNryyDE6Cc4lZysIrIzS2go30t4cCCWyFRCIvLYGhaJPTsHs5+JvMggpCBx3Vi9lt7uXu7dvk/jPjcyr81eBWMUPTSKimxe1d8QSEyElagtsZiMJhKesbEzr5ADVQ7mBtuZaHdQaQtHCgg0Y5R7CaEDVOxuJW6bi8DQBEz6ANE3P4JNgaRZ43Hmp/Gyu4JTQ22cHW/i29kebi/2s750lPWFHu4vdjHb60QymSzih/iiVpswGPxJT05mf3UFr7dV8fFgE1dmOvl1sY/HV0b5+9oE/1wb46/rYzxcGWH9y37Wzr7CL5/3cudMH5emm5Baqst4q3sf52YG+OHMNOvL7/N4eZI/Lo/x+/IoG18N8HB5hAcrHu6ef4O182+yduE4Py30c+NkN6sfdHBj9hA3P+xhcdSNdO/cEBsXBnmyOsO/a8s8+f4jHl1/mz9/XODRqoeNy8NsXBXCK8P8dmmQ9YuvcnfpiEjdw63Puvh5/jB3lga49cUA8+9N8h9w/ATFlhG2OQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;flying-rodman&quot;
+        title=&quot;flying-rodman&quot;
+        src=&quot;/static/4782dd26093a148794fe1aafe2670bdd/01e7c/why-dev-blog-3.png&quot;
+        srcset=&quot;/static/4782dd26093a148794fe1aafe2670bdd/e9ff0/why-dev-blog-3.png 180w,
+/static/4782dd26093a148794fe1aafe2670bdd/f21e7/why-dev-blog-3.png 360w,
+/static/4782dd26093a148794fe1aafe2670bdd/01e7c/why-dev-blog-3.png 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;TMI를 조금 나누자면, 이 사진 속 로드맨은 경기에 몰입한 나머지 나가는 공을 잡기 위해 착지를 고려하지 않고 몸을 내던진다. 물론 로드맨은 농구 외적으로 사고뭉치로 유명하지만 그가 자신이 하는 일을 대하는 애정과 열정만큼은 진짜였다. 나도 내가 하는 개발에 이런 태도를 가지고 싶다는 마음으로 이 사진을 배경으로 선택하게 되었다😂&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;️-본격-블로그-만들기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%B3%B8%EA%B2%A9-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot; aria-label=&quot;️ 본격 블로그 만들기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;👷‍♂️ 본격 블로그 만들기&lt;/h2&gt;
+&lt;p&gt;자 이제 블로그를 위한 재료들이 다 준비됐고, 어디에 블로그를 올릴지 결정해야 했다. 당시에 나는 개발을 막 시작한 상황이었고 직접 블로그를 개발할 능력이 없었다. 하지만 뭔가 너무 잘 되어 있는 블로그 플랫폼인 티스토리나 네이버 블로그에서 운영하고 싶지는 않았다.&lt;/p&gt;
+&lt;p&gt;개발자인데 조금 고생하더라도 github page를 통해 블로그를 만들어 봐야겠다고 마음을 먹게 되었다. 당시 괜찮아보였던 Centrarium이라는 jekyll theme을 활용해서 만들게 되었는데 여러 블로그에서 알려주는 방법을 따라해봐도 되지가 않았다. 그렇게 몇주에 걸친 삽질 끝에 내 개발 블로그인 줌코딩의 코딩 일기를 만들게 되었다.&lt;/p&gt;
+&lt;p&gt;분명 나같이 삽질한 분들이 많으시리라는 생각에 &lt;a href=&quot;https://zoomkoding.github.io/category/gitblog&quot;&gt;차근차근 Github 블로그 만들기&lt;/a&gt;라는 블로그 만들기 시리즈물을 만들기도 했다. (이 글은 꾸준히 많은 분들이 찾아와주신다.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQoz51S7W6DMAzk/Z9r7RtMY1rX75ZCO0TJFwmBm+2Eqb+HdHIcg32+o2jbFm+rFVbrNT7KEtM847/PTN8WIXi09waPukZdXRGcwzSOiN5jCkHOEuWcEP2Q6lybJsyMTKQYnYU+H+HvNYamwnO3gbldoU576OsZtqmhqK6Oe5jq8pfzN679gRsGaK0Rwpgb0hRrjEyYhXaeGKNE8P1LPuX4ejcv7/DKo9F4fpXCrNt8oi3foYhZt/tGfzpAZ7b9YSsM+8MOPdcoZ6ac8yY9bRAHlxryOqm4hX3c4UhHrRQMreKsTQwWFq+gO9GRQNRlm2KkriprZZtbalpX0MTOUe4eDfQla0hsddaTCfBWXivS0cOQbJEkKAK5pbpOXGODGOzo4nJk0FCGuEx/BdeixCHpSmAvmPEvSjppHf1cWfQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;git-blog-series&quot;
+        title=&quot;git-blog-series&quot;
+        src=&quot;/static/a26956f83b6929a85e4181c9b57aa745/37523/why-dev-blog-4.png&quot;
+        srcset=&quot;/static/a26956f83b6929a85e4181c9b57aa745/e9ff0/why-dev-blog-4.png 180w,
+/static/a26956f83b6929a85e4181c9b57aa745/f21e7/why-dev-blog-4.png 360w,
+/static/a26956f83b6929a85e4181c9b57aa745/37523/why-dev-blog-4.png 720w,
+/static/a26956f83b6929a85e4181c9b57aa745/302a4/why-dev-blog-4.png 1080w,
+/static/a26956f83b6929a85e4181c9b57aa745/07a9c/why-dev-blog-4.png 1440w,
+/static/a26956f83b6929a85e4181c9b57aa745/dd507/why-dev-blog-4.png 1528w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;-블로그에-배움-나누기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%B0%B0%EC%9B%80-%EB%82%98%EB%88%84%EA%B8%B0&quot; aria-label=&quot; 블로그에 배움 나누기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎒 블로그에 배움 나누기&lt;/h2&gt;
+&lt;p&gt;초기에 나는 블로그를 &lt;strong&gt;배움을 나누는 공간&lt;/strong&gt;으로 많이 사용했다. 내가 공부한 내용을 조금 더 신경써서 다른 사람들에게 공유될 수 있는 수준으로 정리한 뒤 이를 포스팅하기를 반복했다.&lt;/p&gt;
+&lt;p&gt;초반에는 개발을 시작함과 거의 동시에 블로그를 시작했기 때문에 자연스럽게 내가 나누는 배움의 깊이는 얕을 수 밖에 없었다. 하지만 차근차근 배우고 정리하는 과정이 몸에 익다보니 자연스럽게 이것이 나를 더 많이 배우고 성장할 수 있는 근육으로 자리잡았다. 너무 예전 글들은 내용이 부정확하기도 해서 내리기도 했지만 그 당시에 썼던 글들을 보면 뭔가 그 당시의 열정이 느껴져 기분이 좋다.&lt;/p&gt;
+&lt;p&gt;이러한 공부 방법이 가장 큰 효력을 발휘했던 때는 2년 전에 알고리즘 공부에 빠져서 휴학을 했을 때이다. 그때 나는 친구와 반년 가까이 대학교 근처에 방을 구해서 알고리즘 공부에 전념하며 살았는데 당시에 문제 풀이랑 알고리즘 정리글만 200개 넘게 썼다.(자세한 내용은 &lt;a href=&quot;https://www.zoomkoding.com/how-to-algo/&quot;&gt;이 글&lt;/a&gt;을 참고하길 바란다.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4UlEQVQoz41Ryw7BQBTtj1r5A9/gJyysJaKWljYkbAipR0TUa2roVCkZ0VZ71EwqIZmmd3MfufecM2c0KCKOY5GpQ9BZtPAI+M9cFZoKLIoiUc/GI5RLBdC9KfrPPAtU+wdKl9PsPwMM+2PwO1fuZALK/FEnDymlMKYGmMO+CrOerqm888PkOCk5l8oIIXj4vqiD8JVXoWS/2XNMu1UwusbxZIuZzWxYswmaNR17i+YEjCSzOdBh1IvwyABbQmGuVnDcC3a9BtrVSsqe38Oz62FpWghfv+Z7V4bDbpP4qP6UN/aPbdkcxxixAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;blog-virtuous-cycle&quot;
+        title=&quot;blog-virtuous-cycle&quot;
+        src=&quot;/static/d5686e8dbedd721adeddceea6932f7ab/37523/why-dev-blog-5.png&quot;
+        srcset=&quot;/static/d5686e8dbedd721adeddceea6932f7ab/e9ff0/why-dev-blog-5.png 180w,
+/static/d5686e8dbedd721adeddceea6932f7ab/f21e7/why-dev-blog-5.png 360w,
+/static/d5686e8dbedd721adeddceea6932f7ab/37523/why-dev-blog-5.png 720w,
+/static/d5686e8dbedd721adeddceea6932f7ab/302a4/why-dev-blog-5.png 1080w,
+/static/d5686e8dbedd721adeddceea6932f7ab/07a9c/why-dev-blog-5.png 1440w,
+/static/d5686e8dbedd721adeddceea6932f7ab/064b2/why-dev-blog-5.png 1874w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;공부하는데 블로그 정리할 시간이 어디 있을까 라는 생각이 있을지 들지도 모르겠지만 해보신 분들을 경험해보셨을거다. 공부하고 적용하고 글로 정리하기를 반복하는 무한 선순환 속에서 달리고 있는 자기 자신을 보게 될 것이다.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;-블로그에-생각경험-나누기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%83%9D%EA%B0%81%EA%B2%BD%ED%97%98-%EB%82%98%EB%88%84%EA%B8%B0&quot; aria-label=&quot; 블로그에 생각경험 나누기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🧢 블로그에 생각&amp;#x26;경험 나누기&lt;/h2&gt;
+&lt;p&gt;블로그를 운영하는 또 다른 재미는 바로 내 개인적인 경험이나 생각을 나누는 것이다. 이것은 매우 주관적인 것인 나만의 것이기 때문에 배움을 나누는 것과는 차원이 다른 매력이 있다.&lt;/p&gt;
+&lt;p&gt;블로그를 시작하고 2년 가까이는 그냥 블로그를 공부한 내용을 나누는 곳으로 사용했다. 내가 가진 경험이나 생각 많이 부족하기 때문에 이를 나누는 것은 아직 이르다는 생각이 있었다.&lt;/p&gt;
+&lt;p&gt;하루는 학교에 강연 온 내가 좋아하는 선배가 블로그에 &lt;code class=&quot;language-text&quot;&gt;나만의 개똥철학&lt;/code&gt;을 나누라는 이야기를 해주었다. 대다수의 사람들이 내 생각이 담긴 글에 관심을 가져주지는 않겠지만 누군가는 당신의 생각에 관심을 가지고 무언가 얻어갈 수도 있다는 이야기었다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 81.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEQ0lEQVQ4yy2R+VPUZRzH12tSUVEDFhYW+O5yLAu7XMuyhqh5d4lYMAMpkWNFmpHkSeKg5uCFmmIUIQkmCqH9YGPa5NQPORUjNiJ7srA3hyHj6B/w6tnVHz7zeb7PzPP6vg/ZtQM5tH6WwbHNampLlGx/PYrKV+ezafEcliZNJzN2BtKCKUgLp6KOfonEmFm8vGAm8ogwEuSzUYg9d+4s5s2bHRpZT102LdXpNFSq2ft2HFvXRrJxyXzKFoVRqJ6BVj6Vbds+4Zu2TppbO2jr6OLi5S4utHdyoeMK7Z0/crn7Opev9nCxoxNZV+1z4JEKFbuKY/lodQRli8MpMYZRIE0nTT6dzitdBMYfM+zx4gsE8Pp9DFjMmG1WhtxuMR4Gh4ewim9Zx65Mvv5Uy5H3VNQUKdiyKoLSgnA2GGZjSpiGNmYm3T092JwuAbHicA6GHj80m7Habbg8HoaDwKEhbHY7spYdGZz5OJVDGyWq34qhcvlCNhjnsC57FvnxU9HGhvHrnTu4fAGcwy48Pi9urwez1RJS6BRwt7gbcruwORzIzm/XcroqlYb3k6ktjadqbRSb18RSbJhHXtwUdAnh9Pb14RsdCz30jQQE3MvAC6BFqAxus9UqVA8gO7olhSah8OoePQfLE6laE0lNuYEi40LSI2VkJUXRb7EI4CiegA//2ChukaFF2LMPDoasOpzOkP3+AQG8Wa/jp31p3K7Xc+dwJtf3aji3PZcPVkSwMmUaq/KTGLA58I6MCKCfkUfjoW1zOrCLPIOWg7kG7QZVylzN2TiasjixWaKxQsGNLzT8cjCHPxv0/FGv5lzNMvrMDjxCVVBZYHxMwAOhzDw+n2jcz5DLJZQOYw+WYj2bibvFwN2jOv4+ls69Rh2/f6njn+N6/j2RzKXDxVjdAcYejQrbAWH5udJgnsGfBKEev8jV4wtBZYFWA96WXMxns3hwOov7jRn0Hk+n76SOByeTadq9lu6ff+Ove/fot9oJ/DfB6OPH+IXSiSdPmHz6jMlnT5mYnCQgipP5W3PxCeDDr7LoPaHnvoDePabH0pSD/Xw2u0qTKF6RTtmbBt554xVKipZTUb6erVWV1O3fR+OpU7S1X6T72nVu3LyFzNmcQ6+w2r5VydGKBNp2iHONlhsHMmnbncvOd7Op2mBkZU4SRYs1rC9MYV2BmqIClRiJ1blxmNKiyNNEY9LFI7OJQm7tT6ahLJpDJXJaqiRRjJYrn6eys1zL7oo8NPFKIuZGokmQSEtUoZUktIkSGZIKY1oqpnTNi0kVLX+XT//ZPFGGyE/kZjmfh+NbE217jJyuNlFdmkVOsoJMtRKdKp6UOCVqRSzxkXKkaAXKiBix41BGBndQYbMRf5uR8fZ8Ji6ZGPuhkNvHl3ChtpD2uqV8X7eCltrVnKlZRf2Hy9hWsohNr+Ww0pDCIq2EXlKiksuJDo8QW8H/VJUeeCx6AlwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;writing-blog-post&quot;
+        title=&quot;writing-blog-post&quot;
+        src=&quot;/static/0345e3e9e0aaad4f8af14f9f120c1384/37523/why-dev-blog-6.png&quot;
+        srcset=&quot;/static/0345e3e9e0aaad4f8af14f9f120c1384/e9ff0/why-dev-blog-6.png 180w,
+/static/0345e3e9e0aaad4f8af14f9f120c1384/f21e7/why-dev-blog-6.png 360w,
+/static/0345e3e9e0aaad4f8af14f9f120c1384/37523/why-dev-blog-6.png 720w,
+/static/0345e3e9e0aaad4f8af14f9f120c1384/302a4/why-dev-blog-6.png 1080w,
+/static/0345e3e9e0aaad4f8af14f9f120c1384/8b936/why-dev-blog-6.png 1368w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;그 때부터 조금씩 내 개인 생각이나 경험을 나누는 글들을 조금씩 써보고 있다. 이런 글을 쓰다보면 자연스럽게 내가 가지고 있는 생각이나 경험의 과정을 되돌아 보게 되는데, 이 과정이 나에게는 매우 의미가 있었다. 이 속에서 당시에는 보지 못했던 감사한 부분, 의미있는 부분, 아쉬웠던 부분들을 떠올릴 수 있었고 어느 정도 내 경험과 생각이 정리가 되기도 했다.&lt;/p&gt;
+&lt;p&gt;글을 쓰고 처음에는 이런 글을 누가 읽긴 할까 했지만 정말 신기하게 읽고 댓글까지 남겨주는 고마운 분들이 여럿 있었다. 내 경험이나 생각이 공감받거나 누군가에게 자극이나 도움이 됐다는 이야기를 들을 때면 내 경험의 가치가 더 커짐을 느낀다.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;-나에게-개발-블로그란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%82%98%EC%97%90%EA%B2%8C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%9E%80&quot; aria-label=&quot; 나에게 개발 블로그란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;💎 나에게 개발 블로그란&lt;/h2&gt;
+&lt;p&gt;블로그는 나에게 정말 감사한 존재이다. 그간 블로그는 나에게 공부하게 해주는 동력이었고 경험과 생각으 정리하면서 다시 달릴 수 있는 힘을 얻는 공간이었다. 생각지도 않았지만 실제로 내 블로그를 통해 도움이나 좋은 영향을 받았다는 분들의 이야기를 들으면, 그 기쁨을 이루 말할 수 없다. 앞으로 내가 어떠한 개발자로 또 어떤 생각을 가진 사람으로 성장할지는 모르겠지만 블로그가 각 과정에서의 배움과 경험을 나눌 수 있는 창구가 되었으면 좋겠다.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;-그리고-짧은-홍보&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A7%A7%EC%9D%80-%ED%99%8D%EB%B3%B4&quot; aria-label=&quot; 그리고 짧은 홍보 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔮 그리고 짧은 홍보&lt;/h2&gt;
+&lt;p&gt;그리고 웹 개발자가 되면서 기존에 Jekyll Theme을 이용해서 블로그를 운영하던 때 아쉬웠던 점들과 내가 좋아했던 블로그들을 참고하여 내 블로그를 직접 만들게 되었다.&lt;/p&gt;
+&lt;p&gt;아직 많이 부족하지만 이 테마로 블로그를 운영하고 싶거나 같이 발전시켜볼 생각이 있다면 PR, 이슈, 개인적인 문의 모두 대환영이다.💯&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&quot;-마지막으로&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C&quot; aria-label=&quot; 마지막으로 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;👋 마지막으로&lt;/h2&gt;
+&lt;p&gt;나도 내가 아는 개발자 분들의 블로그에 종종 방문해서 새로운 올라온 글들을 읽어보기를 좋아한다. 각자가 가지고 있는 경험들과 공부한 내용들을 보면서 나도 배울 것들과 생각 해볼 것들을 얻는다. 혹시 나와 같은 생각으로 블로그를 운영하시는 분들이 있다면 댓글로 블로그 링크를 남겨주면 너무 좋을 것 같다. 나도 구경하러 가도록 하겠다 🙂&lt;/p&gt;
+&lt;div class=&quot;table-of-contents&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%82%B4-%EC%86%8C%EA%B0%9C&quot;&gt;🙋‍♂️ 내 소개&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%EF%B8%8F-tmi&quot;&gt;🙋‍♂️ TMI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91&quot;&gt;🚀 블로그 시작&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EB%8B%89%EB%84%A4%EC%9E%84--%ED%85%8C%EB%A7%88-%EC%A0%95%ED%95%98%EA%B8%B0&quot;&gt;🏀 닉네임 + 테마 정하기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%B3%B8%EA%B2%A9-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot;&gt;👷‍♂️ 본격 블로그 만들기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%B0%B0%EC%9B%80-%EB%82%98%EB%88%84%EA%B8%B0&quot;&gt;🎒 블로그에 배움 나누기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%83%9D%EA%B0%81%EA%B2%BD%ED%97%98-%EB%82%98%EB%88%84%EA%B8%B0&quot;&gt;🧢 블로그에 생각&amp;#x26;경험 나누기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EB%82%98%EC%97%90%EA%B2%8C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%9E%80&quot;&gt;💎 나에게 개발 블로그란&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A7%A7%EC%9D%80-%ED%99%8D%EB%B3%B4&quot;&gt;🔮 그리고 짧은 홍보&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C&quot;&gt;👋 마지막으로&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[움직이는 미모티콘 GIF 생성하기]]></title><description><![CDATA[…]]></description><link>https://eunhye43.github.io/memoji-to-gif/</link><guid isPermaLink="false">https://eunhye43.github.io/memoji-to-gif/</guid><pubDate>Wed, 01 Sep 2021 12:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;미모티콘-생성하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AF%B8%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0&quot; aria-label=&quot;미모티콘 생성하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;미모티콘 생성하기&lt;/h2&gt;
 &lt;p&gt;미모티콘을 생성하시려면 먼저 아이폰 메시지에 들어가시면 메시지앱에 다음과 같은 옵션이 있습니다. 여기서 앱스토어 옆에 있는 버튼을 클릭하면 아래와 같은 미모티콘들이 나오는 걸 볼 수 있습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -893,222 +1080,6 @@ node -v를 통해 node 버전을 확인하신 후 낮은 버전이라면 업그�
 &lt;li&gt;&lt;a href=&quot;#7-%EB%B0%B0%ED%8F%AC%EB%90%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0&quot;&gt;7. 배포된 페이지 확인하기&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#8-%EC%88%98%EC%A0%95%ED%95%98%EA%B3%A0-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0&quot;&gt;8. 수정하고 배포하기&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[왜 개발 블로그를 하시나요?]]></title><description><![CDATA[🙋‍♂️ 내 소개 + 블로그 소개  나는 개발 4년차, 블로그…]]></description><link>https://eunhye43.github.io/why-dev-blog/</link><guid isPermaLink="false">https://eunhye43.github.io/why-dev-blog/</guid><pubDate>Tue, 22 Jun 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;️-내-소개--블로그-소개&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%82%B4-%EC%86%8C%EA%B0%9C--%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%86%8C%EA%B0%9C&quot; aria-label=&quot;️ 내 소개  블로그 소개 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🙋‍♂️ 내 소개 + 블로그 소개&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 63.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADj0lEQVQ4y3WTXUxbdRjGT0+/YErZ2CaD2FLaHepAKKU0payDtus3HxM1GRiZGQlziskuJqWaJRovWOPHhV5448duvZjL1F2N8dXSJe7GBCFz4HpGA7J1Ze0gJ8rp2f/x387EGz05v/M8532f9z3n4hzmVnzWtrT0y4Xbd1bGef5e5I/N+5Gl2yuRxaXfIr8u34ksLj/V/6OYo5nxn28tXpiZTTqZh5nMh6CH9IRgVxSpPsHuLlVSrOFfpf2nSqGXErRGT4g0tL0tYnPz4efM1as/TMTjcSTi8b+SyaQ4fWNK/PHKFbHoE/FEiYVEQryZvFnSxHxcnJ2aEuco83NzIp0V4/Pzfy4sJDAzMz3JsIwsSoGMkUlUiZyVE4VCQRiGIUq5kigVSlKuUpM96nJSpiojKqWaZhSEpTlWxhIZwxZ9gc7DxJlijJxlo3IZSxeyEiuTEQXLQilnoa/dD7r0P6GL/vEysGzp4ZJm7z6cGxuLMZqysmhF+TOo3rdfOqCpJEpWiZqqgzjd78f5t8+grbkZFrMFRzudcHQ4cKShAXvUZajSVOKgpgLPqlXEaDBIr/X14aynO8bUVGiihhotQm0W6XSXnbQYjDjaoMcbbgeuf3cZ3399Cdd+uoZpyuVvvsVnkXfx1kAPTnnsGO4y49zJfjIQ9EoTr/RioPpAjHE2mqPWegNatDrJWqclTc/XoL1eiw6jDhMjg7j0yQf48r13cMragnBrE1yNRvS0cBjyHsObI6P4YvJTcqKrSwqb6uHXPRdjertc0WB7O3roG9r0OtJtOgxPYzOOt1gQsrZi2O3EkO8YBh1tsNXp0e+wY8BpR3+HHZ7WF3F2aJA06bSSXV8LfaUqxnRabVHLkSZ0mq2FkMNFvrp4kUyOj5OTbjfR12pJwOUhZ4ZHyAnXcdLjdJLRl18lY6OvE1P9C6Tb1kmGe32ksU5XMB6qhrnuUIxJr6Xff5TLIZPdIvn8Y+wWJNx/kAH9c7C0vAye57GxsYHV1VWk7/Hg795Fjubz+W08yj1GdmuL+hzJZrNI/b76MbO+vn5ekgr0yy9sS5IkCDt5gU+tCGtraYEuoj4lpCjpdJrW1oQUzwv5XF7Y2dkRRFEUijOFQmkWDzKZjxi/3783GAw2BPwBLhgMcX1hH/dSX4ALBIKc1+vlQqEQFw6H6T3tU9xuN2e1Wjm7vYPz+fx0JljsHaY0+H2+qr8Bg7I/49g65KcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;zoomkoding.com&quot;
-        title=&quot;zoomkoding.com&quot;
-        src=&quot;/static/2ded46e0f92c59bcf38c34f7e646231e/37523/why-dev-blog.png&quot;
-        srcset=&quot;/static/2ded46e0f92c59bcf38c34f7e646231e/e9ff0/why-dev-blog.png 180w,
-/static/2ded46e0f92c59bcf38c34f7e646231e/f21e7/why-dev-blog.png 360w,
-/static/2ded46e0f92c59bcf38c34f7e646231e/37523/why-dev-blog.png 720w,
-/static/2ded46e0f92c59bcf38c34f7e646231e/302a4/why-dev-blog.png 1080w,
-/static/2ded46e0f92c59bcf38c34f7e646231e/07a9c/why-dev-blog.png 1440w,
-/static/2ded46e0f92c59bcf38c34f7e646231e/751eb/why-dev-blog.png 2920w&quot;
-        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;나는 개발 4년차, 블로그 4년차인 개발자 &lt;strong&gt;줌코딩&lt;/strong&gt;이다👋 개발을 시작하고 얼마지 않아 블로그를 운영하기 시작했고, 개발도 블로그도 꾸준히 운영하다보니 글의 양도 많아지고 글을 읽어주시는 분들의 수도 점차 늘어났다. (어느새 페이지뷰 수도 꽤 많이 늘었다🌝)&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 17.77777777777778%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA0UlEQVQY01WP226DMBBE+f+f60OjBAKGJFZLA4QANsY2l1MgfWhGGmk1Zy/aYJpmNi3L8meY5xlrLUppnHNvfJP3nr7vMcasPepVD8POgkuWUZUF/7UtSdOUKAoRSYzq2jde1zWn44EoPO2Wtxujfx0OwiTjMxI0xvPQjnYYsc7zU5Qk2ZVIXBAyp1nzSlmMn2k6xccx5nAWJBdJXlSsMb0bCQo98t150lLvFoWmtx43wcNM3FcunxaxsviukfX6ph05lwOycWzzpfZ8PQ15O/ALkjgxWcDEpGgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;blog-stats&quot;
-        title=&quot;blog-stats&quot;
-        src=&quot;/static/27a6007d901edc40442a2238eedd5e0c/37523/why-dev-blog-1.png&quot;
-        srcset=&quot;/static/27a6007d901edc40442a2238eedd5e0c/e9ff0/why-dev-blog-1.png 180w,
-/static/27a6007d901edc40442a2238eedd5e0c/f21e7/why-dev-blog-1.png 360w,
-/static/27a6007d901edc40442a2238eedd5e0c/37523/why-dev-blog-1.png 720w,
-/static/27a6007d901edc40442a2238eedd5e0c/302a4/why-dev-blog-1.png 1080w,
-/static/27a6007d901edc40442a2238eedd5e0c/b94e3/why-dev-blog-1.png 1126w&quot;
-        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;그렇게 블로그에 점점 애정이 생겨가면서 자연스럽게 내 블로그를 직접 개발하여 커스터마이징해보고 싶은 욕심이 생겼다. 그리고 올해 입사를 하게 되어 입사 전 마지막 프로젝트로 개발 블로그를 직접 디자인하고 개발해보게 되었다.&lt;/p&gt;
-&lt;p&gt;블로그를 이전하고 처음 쓰는 글로 내 블로그 경험을 나누면 좋겠다는 생각에 이 글을 쓰게 되었다. 블로그에 관심이 있다면 부담없이 편하게 읽어주면 좋겠다.🙏&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-블로그-시작&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91&quot; aria-label=&quot; 블로그 시작 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🚀 블로그 시작&lt;/h2&gt;
-&lt;p&gt;전공 첫학기에 개인 네이버 블로그에 과제를 포스팅해야하는 수업이 있었다. 당시 군복학으로 열정이 넘쳤던 나는 과제를 성실히 수행했고 학기가 흐르면서 자연스럽게 블로그에 차곡차곡 포스팅이 쌓여갔다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 52.77777777777778%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIklEQVQoz42SiYrDMAxE/f//GULuozmdQ+tnOmkxLNQgIifx02hkl2WZ5XluVVVZ3/d23/dP8b2WZYkMnu71etm6rnYch3nv7dfF/9d1xZwC8zzbvu/mhmGICVCCKnzkqTwWDMWAKFIh0zTFveu6zsZxtLqurWkaa9s2tq99GfJxCFb4za6gBFUoQoRUAvLvgg7foAMGgGKA5HzTSj0EKIvICeAORQKSAyTIgaL+fqviQKqQfNu2D1AKBSJ4RwClkH6+v1pWi4I/QA5gsPzDO2AoA17XjRVF8RxWaCDKUUmROGUpBMJUY7sh/Dpj3r8epi3Hoci3ONGyfLxjun6Zgn9nnG4KBCIg10t7p/uDMqklx4YzXBUNJA3aO88z+qaJs/8Dy9VZGcfkkyoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;naver-blog-history.png&quot;
-        title=&quot;naver-blog-history.png&quot;
-        src=&quot;/static/340181a3a28af6dbe17eb4c5ff56c768/37523/why-dev-blog-2.png&quot;
-        srcset=&quot;/static/340181a3a28af6dbe17eb4c5ff56c768/e9ff0/why-dev-blog-2.png 180w,
-/static/340181a3a28af6dbe17eb4c5ff56c768/f21e7/why-dev-blog-2.png 360w,
-/static/340181a3a28af6dbe17eb4c5ff56c768/37523/why-dev-blog-2.png 720w,
-/static/340181a3a28af6dbe17eb4c5ff56c768/302a4/why-dev-blog-2.png 1080w,
-/static/340181a3a28af6dbe17eb4c5ff56c768/62a6a/why-dev-blog-2.png 1122w&quot;
-        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;그렇게 블로그에 내가 정리한 글이 쌓여가고 실제로 공유된 글이 조회되는 것을 보면서 나는 조금씩 재미를 맛보기 시작했다. 그리고 이왕 공부한 내용들을 정리도 할겸 앞으로 블로그를 운영하면서 공부한 내용들을 정리해보기로 마음 먹게 되었다.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-닉네임--테마-정하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%8B%89%EB%84%A4%EC%9E%84--%ED%85%8C%EB%A7%88-%EC%A0%95%ED%95%98%EA%B8%B0&quot; aria-label=&quot; 닉네임  테마 정하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🏀 닉네임 + 테마 정하기&lt;/h2&gt;
-&lt;p&gt;블로그를 시작하기로 마음 먹으면서 블로그 이름을 정해야 했고 깊이 고민하지 않다. 코딩과 어감이 비슷한 내 최애 농구 선수 코비가 떠올랐고, 코비의 농구화 시리즈 이름인 줌코비(Zoom Kobe)에서 마지막 자만 바꿔서 줌코딩(Zoom In Coding)을 내 닉네임으로 정했다.&lt;/p&gt;
-&lt;p&gt;당시 무심코 지은 내 닉네임은 나의 부캐가 되었다. 내가 블로그에 진심인 것을 아시는 분들은 나를 &lt;strong&gt;줌코딩&lt;/strong&gt;으로 부르기도 한다. 이게 조금 웃긴데 그렇게 들을 때면 내심 기분이 좋다. 혹시 이제 막 블로그를 시작하시는 분들이라면 은근슬쩍 닉네임 지어보길 추천드린다. 여기서 오는 또 다른 재미가 있다.&lt;/p&gt;
-&lt;p&gt;그리고 내가 농구 선수인 좋아하는 선수인 로드맨의 이미지로 블로그 배경을 정했다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADpklEQVQ4yy2TfUzUdRzHf9wTd9wTcDxeyMlTjDgejwcZBAgzPIhjBwooCRzDQ4hAnqaTWJIUFA7iyS4aqyZJZVtATTS1NVGmks221lrLluLEzcQyq3/aXn3Z+uO9976fffZ+v7fP+ytpVCq03hp0ai1aAYPWiFGrx+CjE9Djr/clwGDCEmIhPNSCr84PnUaPXuz5qPWoFGrUKh/8jAEkRUQgqZVKvBUKNEoVaoWAXCF4c6ZCKZOj8JILAS2+wkCv2TQxiLcOtVItdtRohJjcS4lOa+D5rHQks38AoUZf9CKl1luHxlskFeJP+fvTXG0nLsqCJEkoJBkywdL/kMuUqJQ+KOXeKIW5/Tk73ZUOpNhQM2lbLMSZwynJ2EbrjlwSt8ZQmpaKp83Nysk5Dta6GJs4gWd8igaHg1252dQW5ePenkRdfgru2r3MHerCFR2GlGW1URCfREliGg5bOq2Fz+JMT6EyJZrO4hy+mf+EB99d5ebsDKc6XsLT086Uew8jLifD3a18ffpTehsbOFaYTU20GcmZU0id3cGRPTW0FRfjSLBSlpxATfZ2avIKGHJVMdXTzHhDObXWOF7IyaJRmHY5S3lxlxPP4LBIu5O6DCtFYQak+kQrrY5ySvMLKLJl4tpRysV33+H08WG6ysuJD4ug07Wfw40t1NvtHKyo5sRrfewuLqM4M5djzXVkPx1FhsVMfJAeKVMmo14ItbV0EBUTR3J0In3dR/FMTpNryyDE6Cc4lZysIrIzS2go30t4cCCWyFRCIvLYGhaJPTsHs5+JvMggpCBx3Vi9lt7uXu7dvk/jPjcyr81eBWMUPTSKimxe1d8QSEyElagtsZiMJhKesbEzr5ADVQ7mBtuZaHdQaQtHCgg0Y5R7CaEDVOxuJW6bi8DQBEz6ANE3P4JNgaRZ43Hmp/Gyu4JTQ22cHW/i29kebi/2s750lPWFHu4vdjHb60QymSzih/iiVpswGPxJT05mf3UFr7dV8fFgE1dmOvl1sY/HV0b5+9oE/1wb46/rYzxcGWH9y37Wzr7CL5/3cudMH5emm5Baqst4q3sf52YG+OHMNOvL7/N4eZI/Lo/x+/IoG18N8HB5hAcrHu6ef4O182+yduE4Py30c+NkN6sfdHBj9hA3P+xhcdSNdO/cEBsXBnmyOsO/a8s8+f4jHl1/mz9/XODRqoeNy8NsXBXCK8P8dmmQ9YuvcnfpiEjdw63Puvh5/jB3lga49cUA8+9N8h9w/ATFlhG2OQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;flying-rodman&quot;
-        title=&quot;flying-rodman&quot;
-        src=&quot;/static/4782dd26093a148794fe1aafe2670bdd/01e7c/why-dev-blog-3.png&quot;
-        srcset=&quot;/static/4782dd26093a148794fe1aafe2670bdd/e9ff0/why-dev-blog-3.png 180w,
-/static/4782dd26093a148794fe1aafe2670bdd/f21e7/why-dev-blog-3.png 360w,
-/static/4782dd26093a148794fe1aafe2670bdd/01e7c/why-dev-blog-3.png 512w&quot;
-        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;TMI를 조금 나누자면, 이 사진 속 로드맨은 경기에 몰입한 나머지 나가는 공을 잡기 위해 착지를 고려하지 않고 몸을 내던진다. 물론 로드맨은 농구 외적으로 사고뭉치로 유명하지만 그가 자신이 하는 일을 대하는 애정과 열정만큼은 진짜였다. 나도 내가 하는 개발에 이런 태도를 가지고 싶다는 마음으로 이 사진을 배경으로 선택하게 되었다😂&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;️-본격-블로그-만들기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%B3%B8%EA%B2%A9-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot; aria-label=&quot;️ 본격 블로그 만들기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;👷‍♂️ 본격 블로그 만들기&lt;/h2&gt;
-&lt;p&gt;자 이제 블로그를 위한 재료들이 다 준비됐고, 어디에 블로그를 올릴지 결정해야 했다. 당시에 나는 개발을 막 시작한 상황이었고 직접 블로그를 개발할 능력이 없었다. 하지만 뭔가 너무 잘 되어 있는 블로그 플랫폼인 티스토리나 네이버 블로그에서 운영하고 싶지는 않았다.&lt;/p&gt;
-&lt;p&gt;개발자인데 조금 고생하더라도 github page를 통해 블로그를 만들어 봐야겠다고 마음을 먹게 되었다. 당시 괜찮아보였던 Centrarium이라는 jekyll theme을 활용해서 만들게 되었는데 여러 블로그에서 알려주는 방법을 따라해봐도 되지가 않았다. 그렇게 몇주에 걸친 삽질 끝에 내 개발 블로그인 줌코딩의 코딩 일기를 만들게 되었다.&lt;/p&gt;
-&lt;p&gt;분명 나같이 삽질한 분들이 많으시리라는 생각에 &lt;a href=&quot;https://zoomkoding.github.io/category/gitblog&quot;&gt;차근차근 Github 블로그 만들기&lt;/a&gt;라는 블로그 만들기 시리즈물을 만들기도 했다. (이 글은 꾸준히 많은 분들이 찾아와주신다.)&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 40%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQoz51S7W6DMAzk/Z9r7RtMY1rX75ZCO0TJFwmBm+2Eqb+HdHIcg32+o2jbFm+rFVbrNT7KEtM847/PTN8WIXi09waPukZdXRGcwzSOiN5jCkHOEuWcEP2Q6lybJsyMTKQYnYU+H+HvNYamwnO3gbldoU576OsZtqmhqK6Oe5jq8pfzN679gRsGaK0Rwpgb0hRrjEyYhXaeGKNE8P1LPuX4ejcv7/DKo9F4fpXCrNt8oi3foYhZt/tGfzpAZ7b9YSsM+8MOPdcoZ6ac8yY9bRAHlxryOqm4hX3c4UhHrRQMreKsTQwWFq+gO9GRQNRlm2KkriprZZtbalpX0MTOUe4eDfQla0hsddaTCfBWXivS0cOQbJEkKAK5pbpOXGODGOzo4nJk0FCGuEx/BdeixCHpSmAvmPEvSjppHf1cWfQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;git-blog-series&quot;
-        title=&quot;git-blog-series&quot;
-        src=&quot;/static/a26956f83b6929a85e4181c9b57aa745/37523/why-dev-blog-4.png&quot;
-        srcset=&quot;/static/a26956f83b6929a85e4181c9b57aa745/e9ff0/why-dev-blog-4.png 180w,
-/static/a26956f83b6929a85e4181c9b57aa745/f21e7/why-dev-blog-4.png 360w,
-/static/a26956f83b6929a85e4181c9b57aa745/37523/why-dev-blog-4.png 720w,
-/static/a26956f83b6929a85e4181c9b57aa745/302a4/why-dev-blog-4.png 1080w,
-/static/a26956f83b6929a85e4181c9b57aa745/07a9c/why-dev-blog-4.png 1440w,
-/static/a26956f83b6929a85e4181c9b57aa745/dd507/why-dev-blog-4.png 1528w&quot;
-        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-블로그에-배움-나누기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%B0%B0%EC%9B%80-%EB%82%98%EB%88%84%EA%B8%B0&quot; aria-label=&quot; 블로그에 배움 나누기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎒 블로그에 배움 나누기&lt;/h2&gt;
-&lt;p&gt;초기에 나는 블로그를 &lt;strong&gt;배움을 나누는 공간&lt;/strong&gt;으로 많이 사용했다. 내가 공부한 내용을 조금 더 신경써서 다른 사람들에게 공유될 수 있는 수준으로 정리한 뒤 이를 포스팅하기를 반복했다.&lt;/p&gt;
-&lt;p&gt;초반에는 개발을 시작함과 거의 동시에 블로그를 시작했기 때문에 자연스럽게 내가 나누는 배움의 깊이는 얕을 수 밖에 없었다. 하지만 차근차근 배우고 정리하는 과정이 몸에 익다보니 자연스럽게 이것이 나를 더 많이 배우고 성장할 수 있는 근육으로 자리잡았다. 너무 예전 글들은 내용이 부정확하기도 해서 내리기도 했지만 그 당시에 썼던 글들을 보면 뭔가 그 당시의 열정이 느껴져 기분이 좋다.&lt;/p&gt;
-&lt;p&gt;이러한 공부 방법이 가장 큰 효력을 발휘했던 때는 2년 전에 알고리즘 공부에 빠져서 휴학을 했을 때이다. 그때 나는 친구와 반년 가까이 대학교 근처에 방을 구해서 알고리즘 공부에 전념하며 살았는데 당시에 문제 풀이랑 알고리즘 정리글만 200개 넘게 썼다.(자세한 내용은 &lt;a href=&quot;https://www.zoomkoding.com/how-to-algo/&quot;&gt;이 글&lt;/a&gt;을 참고하길 바란다.)&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 41.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4UlEQVQoz41Ryw7BQBTtj1r5A9/gJyysJaKWljYkbAipR0TUa2roVCkZ0VZ71EwqIZmmd3MfufecM2c0KCKOY5GpQ9BZtPAI+M9cFZoKLIoiUc/GI5RLBdC9KfrPPAtU+wdKl9PsPwMM+2PwO1fuZALK/FEnDymlMKYGmMO+CrOerqm888PkOCk5l8oIIXj4vqiD8JVXoWS/2XNMu1UwusbxZIuZzWxYswmaNR17i+YEjCSzOdBh1IvwyABbQmGuVnDcC3a9BtrVSsqe38Oz62FpWghfv+Z7V4bDbpP4qP6UN/aPbdkcxxixAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;blog-virtuous-cycle&quot;
-        title=&quot;blog-virtuous-cycle&quot;
-        src=&quot;/static/d5686e8dbedd721adeddceea6932f7ab/37523/why-dev-blog-5.png&quot;
-        srcset=&quot;/static/d5686e8dbedd721adeddceea6932f7ab/e9ff0/why-dev-blog-5.png 180w,
-/static/d5686e8dbedd721adeddceea6932f7ab/f21e7/why-dev-blog-5.png 360w,
-/static/d5686e8dbedd721adeddceea6932f7ab/37523/why-dev-blog-5.png 720w,
-/static/d5686e8dbedd721adeddceea6932f7ab/302a4/why-dev-blog-5.png 1080w,
-/static/d5686e8dbedd721adeddceea6932f7ab/07a9c/why-dev-blog-5.png 1440w,
-/static/d5686e8dbedd721adeddceea6932f7ab/064b2/why-dev-blog-5.png 1874w&quot;
-        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;공부하는데 블로그 정리할 시간이 어디 있을까 라는 생각이 있을지 들지도 모르겠지만 해보신 분들을 경험해보셨을거다. 공부하고 적용하고 글로 정리하기를 반복하는 무한 선순환 속에서 달리고 있는 자기 자신을 보게 될 것이다.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-블로그에-생각경험-나누기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%83%9D%EA%B0%81%EA%B2%BD%ED%97%98-%EB%82%98%EB%88%84%EA%B8%B0&quot; aria-label=&quot; 블로그에 생각경험 나누기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🧢 블로그에 생각&amp;#x26;경험 나누기&lt;/h2&gt;
-&lt;p&gt;블로그를 운영하는 또 다른 재미는 바로 내 개인적인 경험이나 생각을 나누는 것이다. 이것은 매우 주관적인 것인 나만의 것이기 때문에 배움을 나누는 것과는 차원이 다른 매력이 있다.&lt;/p&gt;
-&lt;p&gt;블로그를 시작하고 2년 가까이는 그냥 블로그를 공부한 내용을 나누는 곳으로 사용했다. 내가 가진 경험이나 생각 많이 부족하기 때문에 이를 나누는 것은 아직 이르다는 생각이 있었다.&lt;/p&gt;
-&lt;p&gt;하루는 학교에 강연 온 내가 좋아하는 선배가 블로그에 &lt;code class=&quot;language-text&quot;&gt;나만의 개똥철학&lt;/code&gt;을 나누라는 이야기를 해주었다. 대다수의 사람들이 내 생각이 담긴 글에 관심을 가져주지는 않겠지만 누군가는 당신의 생각에 관심을 가지고 무언가 얻어갈 수도 있다는 이야기었다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 81.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEQ0lEQVQ4yy2R+VPUZRzH12tSUVEDFhYW+O5yLAu7XMuyhqh5d4lYMAMpkWNFmpHkSeKg5uCFmmIUIQkmCqH9YGPa5NQPORUjNiJ7srA3hyHj6B/w6tnVHz7zeb7PzPP6vg/ZtQM5tH6WwbHNampLlGx/PYrKV+ezafEcliZNJzN2BtKCKUgLp6KOfonEmFm8vGAm8ogwEuSzUYg9d+4s5s2bHRpZT102LdXpNFSq2ft2HFvXRrJxyXzKFoVRqJ6BVj6Vbds+4Zu2TppbO2jr6OLi5S4utHdyoeMK7Z0/crn7Opev9nCxoxNZV+1z4JEKFbuKY/lodQRli8MpMYZRIE0nTT6dzitdBMYfM+zx4gsE8Pp9DFjMmG1WhtxuMR4Gh4ewim9Zx65Mvv5Uy5H3VNQUKdiyKoLSgnA2GGZjSpiGNmYm3T092JwuAbHicA6GHj80m7Habbg8HoaDwKEhbHY7spYdGZz5OJVDGyWq34qhcvlCNhjnsC57FvnxU9HGhvHrnTu4fAGcwy48Pi9urwez1RJS6BRwt7gbcruwORzIzm/XcroqlYb3k6ktjadqbRSb18RSbJhHXtwUdAnh9Pb14RsdCz30jQQE3MvAC6BFqAxus9UqVA8gO7olhSah8OoePQfLE6laE0lNuYEi40LSI2VkJUXRb7EI4CiegA//2ChukaFF2LMPDoasOpzOkP3+AQG8Wa/jp31p3K7Xc+dwJtf3aji3PZcPVkSwMmUaq/KTGLA58I6MCKCfkUfjoW1zOrCLPIOWg7kG7QZVylzN2TiasjixWaKxQsGNLzT8cjCHPxv0/FGv5lzNMvrMDjxCVVBZYHxMwAOhzDw+n2jcz5DLJZQOYw+WYj2bibvFwN2jOv4+ls69Rh2/f6njn+N6/j2RzKXDxVjdAcYejQrbAWH5udJgnsGfBKEev8jV4wtBZYFWA96WXMxns3hwOov7jRn0Hk+n76SOByeTadq9lu6ff+Ove/fot9oJ/DfB6OPH+IXSiSdPmHz6jMlnT5mYnCQgipP5W3PxCeDDr7LoPaHnvoDePabH0pSD/Xw2u0qTKF6RTtmbBt554xVKipZTUb6erVWV1O3fR+OpU7S1X6T72nVu3LyFzNmcQ6+w2r5VydGKBNp2iHONlhsHMmnbncvOd7Op2mBkZU4SRYs1rC9MYV2BmqIClRiJ1blxmNKiyNNEY9LFI7OJQm7tT6ahLJpDJXJaqiRRjJYrn6eys1zL7oo8NPFKIuZGokmQSEtUoZUktIkSGZIKY1oqpnTNi0kVLX+XT//ZPFGGyE/kZjmfh+NbE217jJyuNlFdmkVOsoJMtRKdKp6UOCVqRSzxkXKkaAXKiBix41BGBndQYbMRf5uR8fZ8Ji6ZGPuhkNvHl3ChtpD2uqV8X7eCltrVnKlZRf2Hy9hWsohNr+Ww0pDCIq2EXlKiksuJDo8QW8H/VJUeeCx6AlwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;writing-blog-post&quot;
-        title=&quot;writing-blog-post&quot;
-        src=&quot;/static/0345e3e9e0aaad4f8af14f9f120c1384/37523/why-dev-blog-6.png&quot;
-        srcset=&quot;/static/0345e3e9e0aaad4f8af14f9f120c1384/e9ff0/why-dev-blog-6.png 180w,
-/static/0345e3e9e0aaad4f8af14f9f120c1384/f21e7/why-dev-blog-6.png 360w,
-/static/0345e3e9e0aaad4f8af14f9f120c1384/37523/why-dev-blog-6.png 720w,
-/static/0345e3e9e0aaad4f8af14f9f120c1384/302a4/why-dev-blog-6.png 1080w,
-/static/0345e3e9e0aaad4f8af14f9f120c1384/8b936/why-dev-blog-6.png 1368w&quot;
-        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;그 때부터 조금씩 내 개인 생각이나 경험을 나누는 글들을 조금씩 써보고 있다. 이런 글을 쓰다보면 자연스럽게 내가 가지고 있는 생각이나 경험의 과정을 되돌아 보게 되는데, 이 과정이 나에게는 매우 의미가 있었다. 이 속에서 당시에는 보지 못했던 감사한 부분, 의미있는 부분, 아쉬웠던 부분들을 떠올릴 수 있었고 어느 정도 내 경험과 생각이 정리가 되기도 했다.&lt;/p&gt;
-&lt;p&gt;글을 쓰고 처음에는 이런 글을 누가 읽긴 할까 했지만 정말 신기하게 읽고 댓글까지 남겨주는 고마운 분들이 여럿 있었다. 내 경험이나 생각이 공감받거나 누군가에게 자극이나 도움이 됐다는 이야기를 들을 때면 내 경험의 가치가 더 커짐을 느낀다.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-나에게-개발-블로그란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%82%98%EC%97%90%EA%B2%8C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%9E%80&quot; aria-label=&quot; 나에게 개발 블로그란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;💎 나에게 개발 블로그란&lt;/h2&gt;
-&lt;p&gt;블로그는 나에게 정말 감사한 존재이다. 그간 블로그는 나에게 공부하게 해주는 동력이었고 경험과 생각으 정리하면서 다시 달릴 수 있는 힘을 얻는 공간이었다. 생각지도 않았지만 실제로 내 블로그를 통해 도움이나 좋은 영향을 받았다는 분들의 이야기를 들으면, 그 기쁨을 이루 말할 수 없다. 앞으로 내가 어떠한 개발자로 또 어떤 생각을 가진 사람으로 성장할지는 모르겠지만 블로그가 각 과정에서의 배움과 경험을 나눌 수 있는 창구가 되었으면 좋겠다.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-그리고-짧은-홍보&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A7%A7%EC%9D%80-%ED%99%8D%EB%B3%B4&quot; aria-label=&quot; 그리고 짧은 홍보 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔮 그리고 짧은 홍보&lt;/h2&gt;
-&lt;p&gt;그리고 웹 개발자가 되면서 기존에 Jekyll Theme을 이용해서 블로그를 운영하던 때 아쉬웠던 점들과 내가 좋아했던 블로그들을 참고하여 내 블로그를 직접 만들게 되었다.&lt;/p&gt;
-&lt;p&gt;아직 많이 부족하지만 이 테마로 블로그를 운영하고 싶거나 같이 발전시켜볼 생각이 있다면 PR, 이슈, 개인적인 문의 모두 대환영이다.💯&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&quot;-마지막으로&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C&quot; aria-label=&quot; 마지막으로 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;👋 마지막으로&lt;/h2&gt;
-&lt;p&gt;나도 내가 아는 개발자 분들의 블로그에 종종 방문해서 새로운 올라온 글들을 읽어보기를 좋아한다. 각자가 가지고 있는 경험들과 공부한 내용들을 보면서 나도 배울 것들과 생각 해볼 것들을 얻는다. 혹시 나와 같은 생각으로 블로그를 운영하시는 분들이 있다면 댓글로 블로그 링크를 남겨주면 너무 좋을 것 같다. 나도 구경하러 가도록 하겠다 🙂&lt;/p&gt;
-&lt;div class=&quot;table-of-contents&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%82%B4-%EC%86%8C%EA%B0%9C--%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%86%8C%EA%B0%9C&quot;&gt;🙋‍♂️ 내 소개 + 블로그 소개&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91&quot;&gt;🚀 블로그 시작&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EB%8B%89%EB%84%A4%EC%9E%84--%ED%85%8C%EB%A7%88-%EC%A0%95%ED%95%98%EA%B8%B0&quot;&gt;🏀 닉네임 + 테마 정하기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#%EF%B8%8F-%EB%B3%B8%EA%B2%A9-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot;&gt;👷‍♂️ 본격 블로그 만들기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%B0%B0%EC%9B%80-%EB%82%98%EB%88%84%EA%B8%B0&quot;&gt;🎒 블로그에 배움 나누기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%83%9D%EA%B0%81%EA%B2%BD%ED%97%98-%EB%82%98%EB%88%84%EA%B8%B0&quot;&gt;🧢 블로그에 생각&amp;#x26;경험 나누기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EB%82%98%EC%97%90%EA%B2%8C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%9E%80&quot;&gt;💎 나에게 개발 블로그란&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A7%A7%EC%9D%80-%ED%99%8D%EB%B3%B4&quot;&gt;🔮 그리고 짧은 홍보&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C&quot;&gt;👋 마지막으로&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(final)]]></title><description><![CDATA[♥️HOXY LUSH♥️ 클론사이트 : LUSH KOREA 기간 : 2021.05.10 - 2021.05.21 팀구성
 프론트 (권오재, 김민정)
 백엔드 (김경래, 박은혜, 이승무) HOXY LUSH RESULT (CLICK HERE…]]></description><link>https://eunhye43.github.io/project_final/</link><guid isPermaLink="false">https://eunhye43.github.io/project_final/</guid><pubDate>Sat, 22 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;️hoxy-lush️&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8Fhoxy-lush%EF%B8%8F&quot; aria-label=&quot;️hoxy lush️ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;♥️HOXY LUSH♥️&lt;/h2&gt;
@@ -1125,9 +1096,11 @@ node -v를 통해 node 버전을 확인하신 후 낮은 버전이라면 업그�
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://youtu.be/8nwI5xW3PWo&quot;&gt;HOXY LUSH RESULT (CLICK HERE!)&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;목표&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&quot;0&quot;&gt;
 &lt;li&gt;모델링 (✔️)&lt;/li&gt;
 &lt;li&gt;회원가입 (✔️)&lt;/li&gt;
 &lt;li&gt;로그인&lt;/li&gt;
@@ -1138,7 +1111,7 @@ node -v를 통해 node 버전을 확인하신 후 낮은 버전이라면 업그�
 &lt;li&gt;결제&lt;/li&gt;
 &lt;li&gt;리뷰&lt;/li&gt;
 &lt;li&gt;백엔드에서 내가 맡은 부분은 모델링과 회원가입, 제품상세페이지와 리뷰였다. 모델링은 3명의 백엔드가 함께 고민하며 완성했고, 리뷰는 내가 맡은 추가구현사항이었는데 시간부족과 프론트인원부족으로 우선순위에서 밀렸다.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;잘한점?&lt;/li&gt;
@@ -1194,11 +1167,11 @@ node -v를 통해 node 버전을 확인하신 후 낮은 버전이라면 업그�
 &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;프로젝트를 마치며!
-🍋 &lt;strong&gt;체력관리는 내 몫이다.&lt;/strong&gt; 내가 언제 집중이 잘되는지 내가 언제 피곤한지 몇시간을 자야하는지 얼마나 먹어야하는지 그 하나하나가 다 너무 중요하다고 느껴졌다. 주 1회지만 지금처럼 꼭 클라이밍 타임을 지켜줘야겠다.
-🍋 그러면서 몸소 느낀것은 두가지인데, 첫번째는, &lt;strong&gt;함께 일하고 싶은 개발자&lt;/strong&gt;가 되고 싶다는 점이다. ‘코드’를 잘짜는 건 너무 중요하지만 그렇다고 해서 ‘같이’ 일하고 싶을 수 없다. 내가 생각할 때 &amp;#x3C;함께 일하고 싶은 개발자&gt;는 열린 태도로 소통하며 차분하게 문제를 해결하는 사람인 것 같다. 내가 이런 사람이 되고싶게 만든 사람들은 혹쉬러쉬팀이다. 한 명 한 명이 내게 정말 다양한 인사이트를 주었다. 팀으로 일하면 너- 무 배울게 많아서 속상할 정도이다. 사람에게 배울 수 있는 어떠한 것 그 이상을 배운 느낌이다. 그래서 이 시간이 너무 소중하고 감사하고 느껴진다.
-🍋 나머지 하나는, ** 탄탄한 실력을 갖춘 백엔드 개발자가 되고 싶다**는 생각이었다. 협업하며 하나의 목표를 향해 함께 갈 때 사실 백엔드 개발자로서 갖춰야할 실력은 너무나 당연한 요소이다. 장바구니 뷰는 우리의 메인 포인트였는데, ‘아 내가 저 장바구니를 후다닥 다 짜버릴만한 실력을 갖춰서 문제를 빨리 해결하면 얼마나 좋을까?’ 계속 생각했던 것 같다. 실력이 있으면 원하는 것들을 좀 더 수월하게 구현하고 목표에 더 빨리 도달할 수 있다. 실력을 튼튼하게 키우고 싶다.&lt;/li&gt;
+🍋 &lt;strong&gt;체력관리는 내 몫이다.&lt;/strong&gt; 내가 언제 집중이 잘되는지 내가 언제 피곤한지 몇시간을 자야하는지 얼마나 먹어야하는지 그 하나하나가 다 너무 중요하다고 느껴졌다. 주 1회지만 지금처럼 꼭 클라이밍 타임을 지켜줘야겠다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(5)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖 🐳 초안과 최종본 사이에서 내가 배운 것! 🐳 -> 내가 구현한 건 ProductDetailView만! 처음에는 for 문을 돌려야하는 키값들을…]]></description><link>https://eunhye43.github.io/project1-5/</link><guid isPermaLink="false">https://eunhye43.github.io/project1-5/</guid><pubDate>Tue, 18 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;🍋 그러면서 몸소 느낀것은 두가지인데, 첫번째는, &lt;strong&gt;함께 일하고 싶은 개발자&lt;/strong&gt;가 되고 싶다는 점이다. ‘코드’를 잘짜는 건 너무 중요하지만 그렇다고 해서 ‘같이’ 일하고 싶을 수 없다. 내가 생각할 때 &amp;#x3C;함께 일하고 싶은 개발자&gt;는 열린 태도로 소통하며 차분하게 문제를 해결하는 사람인 것 같다. 내가 이런 사람이 되고싶게 만든 사람들은 혹쉬러쉬팀이다. 한 명 한 명이 내게 정말 다양한 인사이트를 주었다. 팀으로 일하면 너- 무 배울게 많아서 속상할 정도이다. 사람에게 배울 수 있는 어떠한 것 그 이상을 배운 느낌이다. 그래서 이 시간이 너무 소중하고 감사하고 느껴진다.&lt;/p&gt;
+&lt;p&gt;🍋 나머지 하나는, ** 탄탄한 실력을 갖춘 백엔드 개발자가 되고 싶다**는 생각이었다. 협업하며 하나의 목표를 향해 함께 갈 때 사실 백엔드 개발자로서 갖춰야할 실력은 너무나 당연한 요소이다. 장바구니 뷰는 우리의 메인 포인트였는데, ‘아 내가 저 장바구니를 후다닥 다 짜버릴만한 실력을 갖춰서 문제를 빨리 해결하면 얼마나 좋을까?’ 계속 생각했던 것 같다. 실력이 있으면 원하는 것들을 좀 더 수월하게 구현하고 목표에 더 빨리 도달할 수 있다. 실력을 튼튼하게 키우고 싶다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(5)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖 🐳 초안과 최종본 사이에서 내가 배운 것! 🐳 -> 내가 구현한 건 ProductDetailView만! 처음에는 for 문을 돌려야하는 키값들을…]]></description><link>https://eunhye43.github.io/project1-5/</link><guid isPermaLink="false">https://eunhye43.github.io/project1-5/</guid><pubDate>Tue, 18 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖&lt;/p&gt;
 &lt;h3 id=&quot;-초안과-최종본-사이에서-내가-배운-것-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%B4%88%EC%95%88%EA%B3%BC-%EC%B5%9C%EC%A2%85%EB%B3%B8-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%EB%82%B4%EA%B0%80-%EB%B0%B0%EC%9A%B4-%EA%B2%83-&quot; aria-label=&quot; 초안과 최종본 사이에서 내가 배운 것  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐳 초안과 최종본 사이에서 내가 배운 것! 🐳&lt;/h3&gt;
 &lt;p&gt;-&gt; 내가 구현한 건 ProductDetailView만!&lt;/p&gt;
 &lt;ol&gt;
@@ -1336,6 +1309,7 @@ push한 커밋 삭제(가장 최근 commit을 삭제)
 &gt;git branch -d (브랜치명)
 
 * 깃메인에서는 작업하지 않기(메인에서 작업하다가 브랜치파서 넘어가면 add, commit해줘야하니까...) =&gt; 메인에서 브랜치 만들고 거기서 작업!
+
 * push 받기 전에는 pull 먼저 다 받아주기!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(4)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖 🐳 오늘 프로젝트 하면서 배운 것(1) 🐳 -> 회원가입&로그인 코드: 내가 구현한 건 SignUpVieww만! 회원가입과 로그인은 사용자가 요청을 보내는 st 이기 때문에 post…]]></description><link>https://eunhye43.github.io/project1-4/</link><guid isPermaLink="false">https://eunhye43.github.io/project1-4/</guid><pubDate>Mon, 17 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖&lt;/p&gt;
 &lt;h3 id=&quot;-오늘-프로젝트-하면서-배운-것1-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%98%A4%EB%8A%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%831-&quot; aria-label=&quot; 오늘 프로젝트 하면서 배운 것1  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐳 오늘 프로젝트 하면서 배운 것(1) 🐳&lt;/h3&gt;
 &lt;p&gt;-&gt; 회원가입&amp;#x26;로그인 코드: 내가 구현한 건 SignUpVieww만!&lt;/p&gt;
@@ -1547,26 +1521,24 @@ commit message 주의해서 올리기 *링크텍스트(&lt;a href=&quot;https://
 git pull origin main&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;이렇게 받아주면 됨.
 그다음 로컬 메인 브랜치에서 새로운 브랜치를 만들고 거기로 checkout해서 내 작업 다시 시작하면됨!
-브랜치 옮길때는 add-commit 꼮꼮!!
-🥕 2. Models.py에서 ForeignKey참조할 때, 클래스명에서 오류가 났는데 그런 경우, 참조해오는 클래스명에는 ”을 붙여주지 않기!&lt;/p&gt;
+브랜치 옮길때는 add-commit 꼮꼮!!&lt;/p&gt;
+&lt;p&gt;🥕 2. Models.py에서 ForeignKey참조할 때, 클래스명에서 오류가 났는데 그런 경우, 참조해오는 클래스명에는 ”을 붙여주지 않기!&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1) user = models.ForeignKey(User, on_delete=models.CASCADE)
 2) product = models.ForeignKey(&quot;Product&quot;, on_delete=models.CASCADE)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;1)번은 users앱에서 가져온 User class이고, 2)번은 기존 앱에 있는 Product class이기 때문에 &quot;&quot; 유뮤의 차이가 있다!
-🥕 3. Pull받아올 때, my_settings.py랑 database는 내가 새로 생성해줘야한다는 점!
-🥕 4.내가 맡은 회원가입 할 때, 꼭 필요한 것?&lt;/p&gt;
+&lt;p&gt;1)번은 users앱에서 가져온 User class이고, 2)번은 기존 앱에 있는 Product class이기 때문에 &quot;&quot; 유뮤의 차이가 있다!&lt;/p&gt;
+&lt;p&gt;🥕 3. Pull받아올 때, my_settings.py랑 database는 내가 새로 생성해줘야한다는 점!&lt;/p&gt;
+&lt;p&gt;🥕 4.내가 맡은 회원가입 할 때, 꼭 필요한 것?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;가상환경은 무조건 (다 깔려있는 걸로 불러와주자)&lt;/li&gt;
 &lt;li&gt;httpie 깔려있어야!(brew install httpie)&lt;/li&gt;
 &lt;li&gt;import json, bcrypt, jwt &lt;/li&gt;
 &lt;li&gt;어차피 회원가입&amp;#x26;로그인 같이 할거니까, 회원가입에서는 hashed_password로만 만들어주고 .validator.py 따로 만들어서 회원가입과 로그인 두개 다 관리해주자.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;서버 켜주고, 통신해주기.
-🥕 5. 통신할 때는 ^^&lt;/p&gt;
+&lt;li&gt;서버 켜주고, 통신해주기.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🥕 5. 통신할 때는 ^^&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;http post http://127.0.0.1:8000/users/signup account=&apos;hiroo123&apos; password=&apos;2sdascacsasfa&apos; email=&apos;abc8@naver.com&apos; phone_number=01012345678&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;루트지정을 users(앱)/signup(앱에서 지정해준 연결통로)!!!&lt;/strong&gt;
 이걸 몰라서 무수한 404를 접하게 되었다^^ 절대 안까먹을 듯. 승무님 고마씁니당…😇&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;🥝 오늘도 진짜 많이 배웠다. 하나를 배울 때 좀 더 머리와 손과 맘에 체화시키는 노력이 필요하다. 초기세팅-회원가입-로그인은 절대! 잊지 않도록 이번 프로젝트때 이것만은 꼭 잡고 가도록 노력해야지!&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(1)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUCH?> 🦖 클론사이트 : LUSH KOREA 기간 : 2021.05.10 - 2021.05.21 팀구성
