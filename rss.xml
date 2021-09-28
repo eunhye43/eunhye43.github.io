@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[은혜의 깃헙 블로그 🌱]]></title><description><![CDATA[주니어 백엔드 개발 기록 🦖]]></description><link>https://eunhye43.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Sep 2021 02:20:19 GMT</lastBuildDate><item><title><![CDATA[움직이는 미모티콘 GIF 생성하기]]></title><description><![CDATA[…]]></description><link>https://eunhye43.github.io/memoji-to-gif/</link><guid isPermaLink="false">https://eunhye43.github.io/memoji-to-gif/</guid><pubDate>Wed, 01 Sep 2021 12:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;미모티콘-생성하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AF%B8%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0&quot; aria-label=&quot;미모티콘 생성하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;미모티콘 생성하기&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[은혜의 깃헙 블로그 🌱]]></title><description><![CDATA[주니어 백엔드 개발 기록 🦖]]></description><link>https://eunhye43.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Sep 2021 02:28:39 GMT</lastBuildDate><item><title><![CDATA[움직이는 미모티콘 GIF 생성하기]]></title><description><![CDATA[…]]></description><link>https://eunhye43.github.io/memoji-to-gif/</link><guid isPermaLink="false">https://eunhye43.github.io/memoji-to-gif/</guid><pubDate>Wed, 01 Sep 2021 12:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;미모티콘-생성하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AF%B8%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0&quot; aria-label=&quot;미모티콘 생성하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;미모티콘 생성하기&lt;/h2&gt;
 &lt;p&gt;미모티콘을 생성하시려면 먼저 아이폰 메시지에 들어가시면 메시지앱에 다음과 같은 옵션이 있습니다. 여기서 앱스토어 옆에 있는 버튼을 클릭하면 아래와 같은 미모티콘들이 나오는 걸 볼 수 있습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -1109,9 +1109,469 @@ node -v를 통해 node 버전을 확인하신 후 낮은 버전이라면 업그�
 &lt;li&gt;&lt;a href=&quot;#-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A7%A7%EC%9D%80-%ED%99%8D%EB%B3%B4&quot;&gt;🔮 그리고 짧은 홍보&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C&quot;&gt;👋 마지막으로&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(1)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUCH?> 🦖 클론사이트 : LUSH KOREA 기간 : 2021.05.10 - 2021.05.21 팀구성
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(final)]]></title><description><![CDATA[♥️HOXY LUSH♥️ 클론사이트 : LUSH KOREA 기간 : 2021.05.10 - 2021.05.21 팀구성
+프론트 (권오재, 김민정)
+백엔드 (김경래, 박은혜, 이승무) HOXY LUSH RESULT (CLICK HERE…]]></description><link>https://eunhye43.github.io/project_final/</link><guid isPermaLink="false">https://eunhye43.github.io/project_final/</guid><pubDate>Sat, 22 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;️hoxy-lush️&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EF%B8%8Fhoxy-lush%EF%B8%8F&quot; aria-label=&quot;️hoxy lush️ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;♥️HOXY LUSH♥️&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;클론사이트 : LUSH KOREA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 2021.05.10 - 2021.05.21&lt;/li&gt;
+&lt;li&gt;팀구성
+프론트 (권오재, 김민정)
+백엔드 (김경래, 박은혜, 이승무)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/8nwI5xW3PWo&quot;&gt;HOXY LUSH RESULT (CLICK HERE!)&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;목표&lt;/li&gt;
+&lt;li&gt;모델링 (✔️)&lt;/li&gt;
+&lt;li&gt;회원가입 (✔️)&lt;/li&gt;
+&lt;li&gt;로그인&lt;/li&gt;
+&lt;li&gt;필터링&lt;/li&gt;
+&lt;li&gt;제품 상세페이지 (✔️)&lt;/li&gt;
+&lt;li&gt;검색&lt;/li&gt;
+&lt;li&gt;찜 &amp;#x26; 장바구니&lt;/li&gt;
+&lt;li&gt;결제&lt;/li&gt;
+&lt;li&gt;리뷰&lt;/li&gt;
+&lt;li&gt;백엔드에서 내가 맡은 부분은 모델링과 회원가입, 제품상세페이지와 리뷰였다. 모델링은 3명의 백엔드가 함께 고민하며 완성했고, 리뷰는 내가 맡은 추가구현사항이었는데 시간부족과 프론트인원부족으로 우선순위에서 밀렸다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;잘한점?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;상품페이지 코드를 구현한 점이 너무 뿌듯하다.&lt;/strong&gt; 그게 뭐라고 3일을 끙끙거리면서, product&lt;em&gt;id와 product&lt;/em&gt;option_id를 엎치락뒤치락해가며 만들어낸 코드였는데 아주 기특하다. 초안과 최종안이 굉장히 다른데 그 부분에서 정말 많이 배우고 익혔다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;프론트와 소통할 때 계속 문제점을 찾아가고, 프론트와 백의 문제해결에 초점을 맞춰가려고 노력했다는 점&lt;/strong&gt;을 칭찬해주고 싶다. 회원가입에서 내가 터미널로 요청을 보냈을 때는 전혀 문제가 없었는데 프론트랑만 연결을 하면 계속 문제가 났다. 그래서 유효성검사 정규식도 다시 한 번 들여다보고 모든 가능성을 열고 잘잘못을 따지기 이전에 문제를 해결하려고 노력했다. 덕분에 서로 맘상하지 않고 프론트와 백의 소통을 이끌고 문제해결도 된 것 같아서 너무 다행이라고 생각했다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;포기하지 않고 로그아웃하지 않은 점&lt;/strong&gt;을 칭찬해주고 싶다. 심각하게도 코딩실력이 늘지 않는 나와 싸우며 어떻게든 notion에 있는 강의도 들어보고 멘토님께 질문도 해보고 어찌저찌 애써 보고 있는 내가 안쓰럽고 찡하다. 포기하지 않는 나를 너무 칭찬해!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;아쉬운점?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;리뷰페이지를 구현하지 못한 점&lt;/strong&gt;이 너무 아쉽다. 추가구현사항이라고 말은 했지만 충분히 하루정도의 시간이 있었는데 완벽하게 구현하고 싶은 욕심과 정말 아무 감이 오지 않는 답답함에 휩싸여 리뷰페이지 코드를 짜다가 중간에 멈췄다. 프론트 민정님이 프로젝트가 끝나고 다시 함께 구현해보자고 말씀해주셔서 다시 한 번 맞춰볼 생각이다.&lt;/li&gt;
+&lt;li&gt;백엔드 구성원으로써, 그리고 혹쉬러쉬 팀의 구성원으로써 &lt;strong&gt;좀 더 능동적이지 못한 점&lt;/strong&gt;이 아쉽다. 나는 부족하고 못한다는 강박관념에 계속 한발자국 물러나서 소통하고 다른 두분 뒤에 계속 숨어있었던 것 같다. 내가 먼저 프론트랑 소통해보고 모르면 계속 찾아가서 물어봐야했었는데 그게 왜그렇게 무서웠는지 모르겠다. 프론트에서 내 이름만 불러도 너무 무서웠다. 다음 프로젝트때는 stand up meeting때도 프론트와의 소통때에도 조금만 더 능동적으로 목소리를 내는 연습을 해야겠다. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;기록하고 싶은 코드&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;class ProductDetailView(View):
+    def get(self, request, product_id):
+        product = Product.objects.get(id=product_id)
+        result = {
+            &apos;product_id&apos;           : product.id,
+            &apos;name&apos;                 : product.name,
+            &apos;hashtag&apos;              : product.hashtag,
+            &apos;hit&apos;                  : product.hit,
+            &apos;video_url&apos;            : product.video_url,
+            &apos;product_options&apos;      : [{ 
+                &apos;price&apos;         : productoption.price,
+                &apos;quantity&apos;      : productoption.quantity,
+                &apos;weight&apos;        : productoption.weight
+                } for productoption in product.productoption_set.all()],
+            &apos;product_images&apos;       : [productimage.image_url
+                  for productimage in product.productimage_set.all()],
+            &apos;product_descriptions&apos; : [{
+                    &apos;description1&apos; : productdescription.description,
+                    &apos;image_url1&apos;   : productdescription.image_url
+                } for productdescription in product.productdescription_set.all()],
+            &apos;ingredient_detail&apos;    : [{
+                    &apos;description2&apos; : ingredient.description,
+                    &apos;image_url2&apos;   : ingredient.image_url,
+                    &apos;name2&apos;        : ingredient.name
+                } for ingredient in product.ingredient_set.all()],
+            &apos;tag&apos;                  : [tag.name for tag in product.tag_set.all()]
+                }
+        return JsonResponse({&apos;result&apos; : result}, status=200)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트를 마치며!
+🍋 &lt;strong&gt;체력관리는 내 몫이다.&lt;/strong&gt; 내가 언제 집중이 잘되는지 내가 언제 피곤한지 몇시간을 자야하는지 얼마나 먹어야하는지 그 하나하나가 다 너무 중요하다고 느껴졌다. 주 1회지만 지금처럼 꼭 클라이밍 타임을 지켜줘야겠다.
+🍋 그러면서 몸소 느낀것은 두가지인데, 첫번째는, &lt;strong&gt;함께 일하고 싶은 개발자&lt;/strong&gt;가 되고 싶다는 점이다. ‘코드’를 잘짜는 건 너무 중요하지만 그렇다고 해서 ‘같이’ 일하고 싶을 수 없다. 내가 생각할 때 &amp;#x3C;함께 일하고 싶은 개발자&gt;는 열린 태도로 소통하며 차분하게 문제를 해결하는 사람인 것 같다. 내가 이런 사람이 되고싶게 만든 사람들은 혹쉬러쉬팀이다. 한 명 한 명이 내게 정말 다양한 인사이트를 주었다. 팀으로 일하면 너- 무 배울게 많아서 속상할 정도이다. 사람에게 배울 수 있는 어떠한 것 그 이상을 배운 느낌이다. 그래서 이 시간이 너무 소중하고 감사하고 느껴진다.
+🍋 나머지 하나는, ** 탄탄한 실력을 갖춘 백엔드 개발자가 되고 싶다**는 생각이었다. 협업하며 하나의 목표를 향해 함께 갈 때 사실 백엔드 개발자로서 갖춰야할 실력은 너무나 당연한 요소이다. 장바구니 뷰는 우리의 메인 포인트였는데, ‘아 내가 저 장바구니를 후다닥 다 짜버릴만한 실력을 갖춰서 문제를 빨리 해결하면 얼마나 좋을까?’ 계속 생각했던 것 같다. 실력이 있으면 원하는 것들을 좀 더 수월하게 구현하고 목표에 더 빨리 도달할 수 있다. 실력을 튼튼하게 키우고 싶다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(5)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖 🐳 초안과 최종본 사이에서 내가 배운 것! 🐳 -> 내가 구현한 건 ProductDetailView만! 처음에는 for 문을 돌려야하는 키값들을…]]></description><link>https://eunhye43.github.io/project1-5/</link><guid isPermaLink="false">https://eunhye43.github.io/project1-5/</guid><pubDate>Tue, 18 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖&lt;/p&gt;
+&lt;h3 id=&quot;-초안과-최종본-사이에서-내가-배운-것-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%B4%88%EC%95%88%EA%B3%BC-%EC%B5%9C%EC%A2%85%EB%B3%B8-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%EB%82%B4%EA%B0%80-%EB%B0%B0%EC%9A%B4-%EA%B2%83-&quot; aria-label=&quot; 초안과 최종본 사이에서 내가 배운 것  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐳 초안과 최종본 사이에서 내가 배운 것! 🐳&lt;/h3&gt;
+&lt;p&gt;-&gt; 내가 구현한 건 ProductDetailView만!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;처음에는 for 문을 돌려야하는 키값들을 3가지로 나눠서 각각 리스트에 어펜드 해주는 식으로 코드를 짰다. 그래서 맨마지막 result에 그 list값을 넣어주는 방법으로 리턴을 해줬다. 최종본에는 리스트 컴프렌션을 써서 for문을 한줄로 만들어주고 result안에 값을 다 넣어주니 코드 효율성이 올라갔고 가독성도 좋아졌다.&lt;/li&gt;
+&lt;li&gt;초안에서 filter를 주고 해당 product를 찾는 방법으로 코드를 짰었는데 최종본에서는 모두 set을 써서 _set.all()로 좀더 심플하게 코드를 정리했다.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;product option값들도 한개가 아니라 여러가지 값이기 때문에 for문을 돌려주어야하고, product에서 productoption의 price, quantity, weight값 한개씩만 set을 통해 가져오고 싶었는데 set을 쓰려면 값을 특정해주어야만 가능하다고 하셨다.&lt;/p&gt;
+&lt;h3 id=&quot;-제품-상세페이지-viewpy-초안-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%A0%9C%ED%92%88-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-viewpy-%EC%B4%88%EC%95%88-&quot; aria-label=&quot; 제품 상세페이지 viewpy 초안  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐼 제품 상세페이지 view.py 초안 🐼&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import json
+from django.http import JsonResponse
+from django.views import View&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;from products.models import Product, ProductImage, ProductOption, ProductDescription, Ingredient&lt;/p&gt;
+&lt;p&gt;class ProductDetailView(View):
+def get(self, request, product&lt;em&gt;id):
+product = Product.objects.get(id=product&lt;/em&gt;id)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    product_images = []
+    productimages = ProductImage.objects.filter(product=product)
+    for productimage in productimages:
+        product_images.append(productimage.image_url)
+
+    product_descriptions = []
+    productdescriptions = product.productdescription_set.all()
+    for productdescription in productdescriptions:
+        product_descriptions.append({
+             &apos;description1&apos; : productdescription.description,
+             &apos;image_url1&apos; : productdescription.image_url
+             })
+
+    ingredient_detail = []
+    ingredients = product.ingredient_set.all()
+    for ingredient in ingredients:
+        ingredient_detail.append({
+                    &apos;description2&apos; : ingredient.description,
+                    &apos;image_url2&apos; : ingredient.image_url,
+                    &apos;name2&apos; : ingredient.name
+                 })
+
+    result = {
+        &apos;id&apos;        : product.id,
+        &apos;name&apos;      : product.name,
+        &apos;hashtag&apos;   : product.hashtag,
+        &apos;hit&apos;       : product.hit,
+        &apos;video_url&apos; : product.video_url,
+        &apos;price&apos;     : product.productoption_set.first().price,
+        &apos;weight&apos;    : product.productoption_set.first().weight,
+        &apos;quantity&apos;  : product.productoption_set.first().quantity,
+        &apos;product_images&apos; : product_images,
+        &apos;product_descriptions&apos; : product_descriptions,
+        &apos;ingredient_detail&apos; : ingredient_detail
+    }
+    
+    
+    return JsonResponse({&apos;result&apos; : result}, status=200)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;### 🐼 제품 상세페이지 view.py 최종 🐼 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;import json&lt;/p&gt;
+&lt;p&gt;from django.http     import JsonResponse
+from django.views    import View
+from django.db.models       import Q&lt;/p&gt;
+&lt;p&gt;from products.models import Category, Product, ProductImage, ProductOption, ProductDescription, Ingredient, Tag, SubCategory, ProductTag&lt;/p&gt;
+&lt;p&gt;class ProductListView(View):
+def get(self, request):
+category&lt;em&gt;id       = request.GET.get(‘category&lt;/em&gt;id’)
+sub&lt;em&gt;category&lt;/em&gt;id   = request.GET.get(‘sub&lt;em&gt;category&lt;/em&gt;id’)
+keyword           = request.GET.get(‘keyword’)
+pagination        = int(request.GET.get(‘pagination’, 0))
+limit             = int(request.GET.get(‘limit’, 4))
+offset            = pagination * 4&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    if category_id or sub_category_id:
+        products = Product.objects.filter(
+            Q(category_id = category_id) |
+            Q(sub_category_id = sub_category_id))[offset:offset+limit]
+
+    elif keyword:
+        products= Product.objects.filter(name__contains = keyword)
+        
+    else:
+        products = Product.objects.all()[offset:offset+limit]
+
+    product_list = [{
+        &apos;id&apos;            : product.id,
+        &apos;name&apos;          : product.name,
+        &apos;hashtag&apos;       : product.hashtag,
+        &apos;option&apos; : [{ 
+            &apos;option_id&apos;     : option.id,
+            &apos;price&apos;         : option.price,
+            &apos;quantity&apos;      : option.quantity,
+            &apos;weight&apos;        : option.weight,
+            } for option in product.productoption_set.all()],
+        &apos;image_url&apos;     : product.productimage_set.first().image_url,
+        &apos;tag&apos;    : [{&apos;id&apos; : tag.id, &apos;tag&apos;: tag.name} for tag in product.tag_set.all()]
+        } for product in products]
+    
+    return JsonResponse({&apos;product_info&apos; : product_list}, status = 200)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;class ProductDetailView(View):
+def get(self, request, product&lt;em&gt;id):
+product = Product.objects.get(id=product&lt;/em&gt;id)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    result = {
+        &apos;product_id&apos;           : product.id,
+        &apos;name&apos;                 : product.name,
+        &apos;hashtag&apos;              : product.hashtag,
+        &apos;hit&apos;                  : product.hit,
+        &apos;video_url&apos;            : product.video_url,
+        &apos;product_options&apos;      : [{ 
+            &apos;price&apos;         : productoption.price,
+            &apos;quantity&apos;      : productoption.quantity,
+            &apos;weight&apos;        : productoption.weight
+            } for productoption in product.productoption_set.all()],
+        &apos;product_images&apos;       : [productimage.image_url
+              for productimage in product.productimage_set.all()],
+        &apos;product_descriptions&apos; : [{
+                &apos;description1&apos; : productdescription.description,
+                &apos;image_url1&apos;   : productdescription.image_url
+            } for productdescription in product.productdescription_set.all()],
+        &apos;ingredient_detail&apos;    : [{
+                &apos;description2&apos; : ingredient.description,
+                &apos;image_url2&apos;   : ingredient.image_url,
+                &apos;name2&apos;        : ingredient.name
+            } for ingredient in product.ingredient_set.all()],
+        &apos;tag&apos;                  : [tag.name for tag in product.tag_set.all()]
+            }
+    return JsonResponse({&apos;result&apos; : result}, status=200)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;### 🐳 오늘 새롭게 배운 것! 🐳 
+push한 커밋 삭제(가장 최근 commit을 삭제)
+&gt;git reset HEAD^
+
+깃 커밋메시지 수정
+&gt;git commit –amend
+
+강제 push 
+&gt;git push origin master(또는 브랜치이름) -f
+
+브렌치 삭제
+&gt;git branch -d (브랜치명)
+
+* 깃메인에서는 작업하지 않기(메인에서 작업하다가 브랜치파서 넘어가면 add, commit해줘야하니까...) =&gt; 메인에서 브랜치 만들고 거기서 작업!
+* push 받기 전에는 pull 먼저 다 받아주기!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(4)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖 🐳 오늘 프로젝트 하면서 배운 것(1) 🐳 -> 회원가입&로그인 코드: 내가 구현한 건 SignUpVieww만! 회원가입과 로그인은 사용자가 요청을 보내는 st 이기 때문에 post…]]></description><link>https://eunhye43.github.io/project1-4/</link><guid isPermaLink="false">https://eunhye43.github.io/project1-4/</guid><pubDate>Mon, 17 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖&lt;/p&gt;
+&lt;h3 id=&quot;-오늘-프로젝트-하면서-배운-것1-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%98%A4%EB%8A%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%831-&quot; aria-label=&quot; 오늘 프로젝트 하면서 배운 것1  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐳 오늘 프로젝트 하면서 배운 것(1) 🐳&lt;/h3&gt;
+&lt;p&gt;-&gt; 회원가입&amp;#x26;로그인 코드: 내가 구현한 건 SignUpVieww만!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;회원가입과 로그인은 사용자가 요청을 보내는 st 이기 때문에 post 메쏘드를 쓴다! 제이슨을 통해 바디에 데이터를 담아 받고 보낸다.&lt;/li&gt;
+&lt;li&gt;따로 유효성 검사를 validator.py를 만들어서 import해주려고 했는데 그냥 회원가입안에 유효성 검사를 넣어주었다. 프론트랑 유효성검사 코드 확인은 필수! &lt;strong&gt;어떤 조건을 걸어주었는지 프론트에 먼저 얘기해주기!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;bcrypt를 활용해서 비밀번호를 해쉬화해주었다. encode 시키고, 다시 decode까지! 이 코드는 외워버렸는데 아주 뿌듯스 👌🏽&lt;/li&gt;
+&lt;li&gt;마지막으로, 초안을 작성할 때는 create안에 값을 다 따로 써주었었는데, 최종본에서 한번에 괄호로 열어서 다 넣어주니 훨씬 가독성이 올라간다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;-회원가입--로그인-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85--%EB%A1%9C%EA%B7%B8%EC%9D%B8-&quot; aria-label=&quot; 회원가입  로그인  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐼 회원가입 &amp;#x26; 로그인 🐼&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import json
+import bcrypt
+import jwt
+import re
+
+from django.views         import View
+from django.http          import JsonResponse
+from json.decoder         import JSONDecodeError
+
+from users.models import User
+from my_settings  import SECRET_KEY, ALGORITHM
+
+class SignUpView(View):
+    def post(self, request):
+        try:
+            data         = json.loads(request.body)
+            account      = data[&quot;account&quot;]
+            password     = data[&quot;password&quot;]
+            email        = data[&quot;email&quot;]
+            phone_number = data[&quot;phone_number&quot;]
+            nickname     = data.get(&quot;nickname&quot;)
+            address      = data.get(&quot;address&quot;)
+
+            email_validation    = re.compile(&apos;^[a-z0-9]+@[a-z0-9]+\.[a-z0-9.]+$&apos;, re.I)
+            password_validation = re.compile(&apos;^(?=.*[a-z])(?=.*[0-9]).{8,}&apos;, re.I)
+
+            if not email_validation.match(email):
+                return JsonResponse({&quot;MESSAGE&quot; : &quot;INVALID_EMAIL&quot;}, status=400)
+
+            if not password_validation.match(password):
+                return JsonResponse({&quot;MESSAGE&quot; : &quot;INVALID_PASSWORD&quot;}, status=400)
+           
+            if User.objects.filter(phone_number=data.get(&apos;phone_number&apos;)).exists() and data.get(&apos;phone_number&apos;) != None:
+                return JsonResponse({&apos;MESSAGE&apos;: &apos;ALREADY_EXISTS&apos;}, status = 400)
+
+            if User.objects.filter(nickname=data.get(&apos;nickname&apos;)).exists()\
+                and data.get(&apos;nickname&apos;) != None:
+                return JsonResponse({&apos;MESSAGE&apos; : &apos;ALREADY_EXISTS&apos;}, status = 400)
+
+            hashed_password= bcrypt.hashpw(password.encode(&quot;utf-8&quot;), bcrypt.gensalt()).decode(&quot;utf-8&quot;)
+
+            User.objects.create(
+                account      = account,
+                password     = hashed_password,
+                email        = email,
+                phone_number = phone_number,
+                nickname     = nickname,
+                address      = address
+                )
+            return JsonResponse({&quot;MESSAGE&quot; : &quot;SUCCESS&quot;}, status = 201)
+
+        except KeyError:
+            return JsonResponse({&quot;MESSAGE&quot; : &quot;KEY_ERROR&quot;}, status = 400)
+
+class LogInView(View):
+    def post(self, request):
+        try:
+            data = json.loads(request.body)
+            user = User.objects.get(account=data[&quot;account&quot;])
+            hashed_password = user.password.encode(&quot;utf-8&quot;)
+
+            if not bcrypt.checkpw(data[&quot;password&quot;].encode(&quot;utf-8&quot;), hashed_password):
+                return JsonResponse({&quot;MESSAGE&quot;:&quot;INVALID_USER&quot;}, status=401)
+
+            access_token = jwt.encode({&quot;account&quot; : user.id}, SECRET_KEY, algorithm = ALGORITHM)
+
+            return JsonResponse({&quot;MESSAGE&quot;:&quot;SUCCESS&quot;, &quot;ACCESS_TOKEN&quot;: access_token}, status=200)
+        
+        except json.JSONDecodeError:
+            return JsonResponse({&quot;MESSAGE&quot;: &quot;KEY_ERROR&quot;}, status=404) 
+        
+        except User.DoesNotExist:
+            return JsonResponse({&quot;MESSAGE&quot;: &quot;INVALID_USER&quot;}, status=404)
+        
+        except KeyError:
+            return JsonResponse({&quot;MESSAGE&quot; : &quot;KEY_ERROR&quot;}, status=400)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;-오늘-프로젝트-하면서-배운-것2-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%98%A4%EB%8A%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%832-&quot; aria-label=&quot; 오늘 프로젝트 하면서 배운 것2  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐳 오늘 프로젝트 하면서 배운 것(2) 🐳&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;git commit 메시지
+git commit (TEMPLATE에 맞춰서!)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Add&lt;/strong&gt; - 레이아웃 / 기능 추가&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remove&lt;/strong&gt; - 내용 삭제 (폴더 / 파일 삭제)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modify&lt;/strong&gt; - 수정 (JSON 데이터 포맷 변경 / 버튼 색깔 변경 / 폰트 변경)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fix&lt;/strong&gt; - 버그/오류 해결&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Refactor&lt;/strong&gt; - 코드 리팩토링 (멘토 리뷰 반영 / 스스로 리팩토링 / 중복 코드 제거 / 불필요 코드 제거 / 성능 개선&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;🥲 예시 
+🥲 분류: 한줄 제목
+- 구현내용 detail
+- 구현내용 detail
+🥲 Add: User app 생성 및 회원가입 엔드포인트 추가&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;유저 앱을 만들고, 유저 모델 클래스 생성&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;회원가입 엔드포인트 구현&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;git hub!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;😇 깃헙 익숙하게하기,
+git add .
+git commit (여기서 커밋메시지 들어가서 써주고 :wq!)
+git log
+git status
+git push origin feature/signup-login
+(요기서 signup-login은 미리 만들어둔 브랜치 제목)
+(git push할때는 manage.py있는 곳에서 commit+push)
+&lt;strong&gt;(push하기전에는 pull 모두 다 받기)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;😇 멘토님 ok merge나면,
+git checkout main (메인으로 먼저가서!)
+git pull origin main (메인으로 풀받아오기!)
+git branch (name) 새로운 브랜치 하나 파서 시작하기! (브렌치는 메인에 만들자)&lt;/p&gt;
+&lt;p&gt;😇 pull은 github 메인과 내 local메인사이에서 가능
+pull받은 내 local메인의 업데이트 내용을 내 branch에서도 적용해주기 위해서 merge를 시켜주면 됨(in 브렌치, git merge main)&lt;/p&gt;
+&lt;p&gt;😇 pull받아오면, &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;makemigration, migrate, runserver까지 모두 구동해보기!&lt;/li&gt;
+&lt;li&gt;my settings.py 확인, database 이름도 확인!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;😇 혹시 안깔려있으면!
+pip install django
+pip install client
+pip install django-cors-headers&lt;/p&gt;
+&lt;h3 id=&quot;-요즘-느끼는-것-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%9A%94%EC%A6%98-%EB%8A%90%EB%81%BC%EB%8A%94-%EA%B2%83-&quot; aria-label=&quot; 요즘 느끼는 것  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐳 요즘 느끼는 것! 🐳&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;기분이 태도가 되게 하지 않는 것. 말로는 너무 쉬운데 몸 힘들고 예민해지니까 기분이 태도가 되어버린다. 예민해질 때는 자리를 잠깐 피하거나 한 번더 생각하고 입밖으로 말 꺼내기.&lt;/li&gt;
+&lt;li&gt;하나를 알더라도 정확하게 알고 가는 것이 너무 중요하다는 걸 느낀다. 어줍잖게 아는 것보다 쉽고 단순한 것이라도 내 것으로 철저하게 만드는게 중요하다. 그런 의미에서 이번 프로젝트에서는 초기세팅&amp;#x26;회원가입&amp;#x26;로그인&amp;#x26;제품세부사항을 마스터하고, 깃헙에 익숙하게 하는게 목표다!!!😍&lt;/li&gt;
+&lt;li&gt;모든 것에 장점과 단점이 있다. 장점을 보면서 감사함을 배우고 단점을 보면서 주의하고 더 조심스럽게 행동하게 된다. 지금 위코드에서 하고 있는 모든 것이 쉽지마는 않다. 요즘 프로젝트 짝꿍인 경래님말을 빌리자면 나는 정말로 찐 슬로우스타터인 것 같다. 조금 더디더라도 꼼꼼하게 하나씩 채우면서 가야겠다는 생각이 든다. 1초 1초 더 힘내서 버텨내야지!🍔&lt;/li&gt;
+&lt;li&gt;왜케 좋은 사람들만 내 옆에 그득한지. 정말 감사하고 또 미안하다. 소중한 마음들을 감사하게 받고 예쁘게 전달하는 사람이 되고 싶다! 1차 프로젝트 무사히 끝내길!🍍&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(3)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖
+오늘은 회원가입&로그인 models.py를 토대로 views.py…]]></description><link>https://eunhye43.github.io/project1-3/</link><guid isPermaLink="false">https://eunhye43.github.io/project1-3/</guid><pubDate>Thu, 13 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖
+오늘은 회원가입&amp;#x26;로그인 models.py를 토대로 views.py 마무리를 했다. 통신하는 것 때문에 속도가 좀 더뎌진게 맘에 걸리지만 하나하나 꼼꼼하게 해나가고 있는 것 같아서 걱정되면서도 뿌듯했다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;오늘-배운-것&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%B0%B0%EC%9A%B4-%EA%B2%83&quot; aria-label=&quot;오늘 배운 것 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 배운 것!&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;😇 1. 코드컨벤션에 따라 모듈을 구분해주는 것.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;python 자체 모듈&lt;/li&gt;
+&lt;li&gt;django 모듈&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;사용자 생성 모듈&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import json # 파이썬 자체모듈
+import bcrypt
+import jwt
+import re
+from django.views         import View #django 모듈
+from django.http          import JsonResponse
+from json.decoder         import JSONDecodeError
+from users.models         import User #사용자 생성 모듈
+from my_settings          import SECRET_KEY, ALGORITHM&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;😇 2. 정규표현식! (유효성 검사를 위한 정규표현식)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;🦕 email_validation    = re.compile(&apos;^[a-z0-9]+@[a-z0-9]+\.[a-z0-9.]+$&apos;, re.I)
+🦕 password_validation = re.compile(r&apos;^(?=.*[a-z])(?=.*[0-9])(?=.*[~!@#$%^&amp;amp;*]).{8,}&apos;, re.I)
+if not email_validation.match(email):
+   return JsonResponse({&quot;MESSAGE&quot; : &quot;INVALID_EMAIL&quot;}, status=400)
+if not password_validation.match(password):
+   return JsonResponse({&quot;MESSAGE&quot; : &quot;INVALID_PASSWORD&quot;}, status=400)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;email과 password에 대해 validation을 정의해주고, if문을 통해 유효성 검사를 진행해주기!… 그냥 외울까?…?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;😇 3. 중복값 없애기&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;if User.objects.filter(phone_number=data.get(&apos;phone_number&apos;)).exists()\
+   and data.get(&apos;phone_number&apos;) != None:
+   return JsonResponse({&apos;MESSAGE&apos;: &apos;ALREADY_EXISTS&apos;}, status = 400)
+
+if User.objects.filter(nickname=data.get(&apos;nickname&apos;)).exists()\
+   and data.get(&apos;nickname&apos;) != None:
+   return JsonResponse({&apos;MESSAGE&apos; : &apos;ALREADY_EXISTS&apos;}, status = 400)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Q를 쓰라고 말씀을 해주셨는데 Q를 썼다가 중복을 제대로 거를 수가 없어서 if문, filter값을 활용하고 None값이 아닌 것을 조건으로 주어서 phone_number와 nickname의 중복값을 걸러주었다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;data[‘nickname’] 과 data.get(‘nickname’)차이?
+data[‘nickname’]으로 정의하면 닉네임 값이 들어오지 않을 시 바로 에러가 나오고 data.get(‘nickname’)으로 정의 시 null값으로 들어옴!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;😇 4. 토큰 발행 할 때, algorithm도 my_settings에 추가해주기!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;access_token = jwt.encode({&quot;account&quot; : user.id}, SECRET_KEY, algorithm = ALGORITHM)
+
+# 쪼기에 있는 알고리즘을 ![](https://images.velog.io/images/majaeh43/post/b7cafade-f809-48fb-aaf1-35716bfdf70d/image.png) 요렇게 추가!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;😇 5. 상태코드 401과 404의 차이?
+상태코드 401은 인증이 안돼 자원을 이용할 수 없는 상태고, 미인증 상태를 의미!
+상태코드 404는 원하는 경로 파일, 자원등을 찾을 수 없을 때 발생함. (경래님 답변!)&lt;/p&gt;
+&lt;p&gt;😇 조심해야할 부분!
+pull받고 makemigration, migrate 챙기기.
+commit message 주의해서 올리기 *링크텍스트(&lt;a href=&quot;https://www.notion.so/wecode/Commit-Message-Guidelines-eb3d8ebc0d014c26848ee628934ae430&quot;&gt;https://www.notion.so/wecode/Commit-Message-Guidelines-eb3d8ebc0d014c26848ee628934ae430&lt;/a&gt;)
+통신할 때, 에러메시지 다 확인하기 -&gt; 내가 쓴 코드에 대해서 정확하게 다 파악하고 있기.&lt;/p&gt;
+&lt;p&gt;😇 내가 오늘 배운 것을 느리더라도 천천히 소화시켜주기.
+행복하려고 배우는 코딩인데 행복지수가 점점 낮아지는 것 같은 기분이 들때가 있다. 그치만 순간순간 감사하면서 1초 1초 더 나아지고 성장하고 싶은 맘이다. 그만 징징대고 오류와의 혈투를 피하지 않겠다…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(2)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUSH?> 🦖 오늘 배운 것
+모델링 끄읕-! 테이블도 models.py도 완성 잘하고 컨펌도 잘 받음!
+🥕 1. 함께 협업 할 때에는 한 사람이 models.py를 작성하는 것이 좋고 github에 push…]]></description><link>https://eunhye43.github.io/project2/</link><guid isPermaLink="false">https://eunhye43.github.io/project2/</guid><pubDate>Tue, 11 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;-1차-프로젝트-hoxy-lush-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-hoxy-lush-&quot; aria-label=&quot; 1차 프로젝트 hoxy lush  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUSH?&gt; 🦖&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;오늘 배운 것
+모델링 끄읕-! 테이블도 models.py도 완성 잘하고 컨펌도 잘 받음!
+🥕 1. 함께 협업 할 때에는 한 사람이 models.py를 작성하는 것이 좋고 github에 push후 pull request를 올림. github메인에서 local메인으로 받는 것이 pull이고, 내 terminal에서는,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git checkout main 
+git pull origin main&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이렇게 받아주면 됨.
+그다음 로컬 메인 브랜치에서 새로운 브랜치를 만들고 거기로 checkout해서 내 작업 다시 시작하면됨!
+브랜치 옮길때는 add-commit 꼮꼮!!
+🥕 2. Models.py에서 ForeignKey참조할 때, 클래스명에서 오류가 났는데 그런 경우, 참조해오는 클래스명에는 ”을 붙여주지 않기!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1) user = models.ForeignKey(User, on_delete=models.CASCADE)
+2) product = models.ForeignKey(&quot;Product&quot;, on_delete=models.CASCADE)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;1)번은 users앱에서 가져온 User class이고, 2)번은 기존 앱에 있는 Product class이기 때문에 &quot;&quot; 유뮤의 차이가 있다!
+🥕 3. Pull받아올 때, my_settings.py랑 database는 내가 새로 생성해줘야한다는 점!
+🥕 4.내가 맡은 회원가입 할 때, 꼭 필요한 것?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경은 무조건 (다 깔려있는 걸로 불러와주자)&lt;/li&gt;
+&lt;li&gt;httpie 깔려있어야!(brew install httpie)&lt;/li&gt;
+&lt;li&gt;import json, bcrypt, jwt &lt;/li&gt;
+&lt;li&gt;어차피 회원가입&amp;#x26;로그인 같이 할거니까, 회원가입에서는 hashed_password로만 만들어주고 .validator.py 따로 만들어서 회원가입과 로그인 두개 다 관리해주자.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;서버 켜주고, 통신해주기.
+🥕 5. 통신할 때는 ^^&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;http post http://127.0.0.1:8000/users/signup account=&apos;hiroo123&apos; password=&apos;2sdascacsasfa&apos; email=&apos;abc8@naver.com&apos; phone_number=01012345678&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;루트지정을 users(앱)/signup(앱에서 지정해준 연결통로)!!!&lt;/strong&gt;
+이걸 몰라서 무수한 404를 접하게 되었다^^ 절대 안까먹을 듯. 승무님 고마씁니당…😇&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🥝 오늘도 진짜 많이 배웠다. 하나를 배울 때 좀 더 머리와 손과 맘에 체화시키는 노력이 필요하다. 초기세팅-회원가입-로그인은 절대! 잊지 않도록 이번 프로젝트때 이것만은 꼭 잡고 가도록 노력해야지!&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[HoxyLush(1)]]></title><description><![CDATA[🦖 1차 프로젝트 <HOXY LUCH?> 🦖 클론사이트 : LUSH KOREA 기간 : 2021.05.10 - 2021.05.21 팀구성
 프론트 (권오재, 김민정, 김훈익)
-백엔드 (김경래, 박은혜, 이승무) 현재 진행 중인 것. Trello…]]></description><link>https://eunhye43.github.io/3d-book/</link><guid isPermaLink="false">https://eunhye43.github.io/3d-book/</guid><pubDate>Thu, 20 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;-1차-프로젝트-hoxy-luch-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-hoxy-luch-&quot; aria-label=&quot; 1차 프로젝트 hoxy luch  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUCH?&gt; 🦖&lt;/h3&gt;
+백엔드 (김경래, 박은혜, 이승무) 현재 진행 중인 것. Trello…]]></description><link>https://eunhye43.github.io/3d-book/</link><guid isPermaLink="false">https://eunhye43.github.io/3d-book/</guid><pubDate>Mon, 10 May 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;-1차-프로젝트-hoxy-luch-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-hoxy-luch-&quot; aria-label=&quot; 1차 프로젝트 hoxy luch  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🦖 1차 프로젝트 &amp;#x3C;HOXY LUCH?&gt; 🦖&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
